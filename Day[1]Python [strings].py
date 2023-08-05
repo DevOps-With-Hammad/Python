@@ -5,4 +5,4 @@ print("Hello Hammad")
 print("Hello World, \n Hammad")
 
 # Printing two separate lines with one command in python.
-print("Hello World'\n Welcome Hammad. \n Where you from ?")
+print("Hello World'\n Welocm")
