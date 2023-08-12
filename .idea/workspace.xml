@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day(#2) Tranning and projects/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bash.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bash_VARs.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1Proj.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day[1]Python [strings].py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input()Function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artimatics.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
