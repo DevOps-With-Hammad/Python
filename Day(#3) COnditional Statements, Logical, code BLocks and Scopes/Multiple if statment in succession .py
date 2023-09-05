@@ -10,5 +10,10 @@ if Height >= 120:
         print("you're gonna cost 7$ ")
     elif Age >= 18:
         print("you're gonna cost 10$  ")
+    Wanted_Photos = input("Pls confirm with photo or not type Y or N \n")
+    if Wanted_Photos == "Y":
+        print("here is your bill +3$ for the Photo")
+    else:
+        print("okay here is your bill ")
 else:
     print("you can't drive, \n we're sorry to inform you that, pls try aging. \n on the height 120 CMs")
