@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1--Day (#1) Traning and projects/Bash.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1--Day (#1) Traning and projects/Bash_VARs.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1--Day (#1) Traning and projects/Day1Proj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1--Day (#1) Traning and projects/Day[1]Python [strings].py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1--Day (#1) Traning and projects/Input()Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1--Day (#1) Traning and projects/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1--Day (#1) Traning and projects/Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1--Day (#1) Traning and projects/artimatics.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2--Day(#2) Tranning and projects/Bills Calcultaotrs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2--Day(#2) Tranning and projects/Data Types Exercies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2--Day(#2) Tranning and projects/Math Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2--Day(#2) Tranning and projects/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3--Day(#3) COnditional Statements, Logical, code BLocks and Scopes/BMI Calculate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3--Day(#3) COnditional Statements, Logical, code BLocks and Scopes/If_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3--Day(#3) COnditional Statements, Logical, code BLocks and Scopes/Leap Year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3--Day(#3) COnditional Statements, Logical, code BLocks and Scopes/Logic Operator  .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3--Day(#3) COnditional Statements, Logical, code BLocks and Scopes/Multiple if statment in succession .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3--Day(#3) COnditional Statements, Logical, code BLocks and Scopes/Pizza Order .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3--Day(#3) COnditional Statements, Logical, code BLocks and Scopes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3--Day(#3) COnditional Statements, Logical, code BLocks and Scopes/nested if statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3--Day(#3) COnditional Statements, Logical, code BLocks and Scopes/odd or even .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4--Day (#4) - Beginner - Control Flow and Logical Operators/Module .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4--Day (#4) - Beginner - Control Flow and Logical Operators/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day (#1) Traning and projects/Bash.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day (#1) Traning and projects/Bash_VARs.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day (#1) Traning and projects/Day1Proj.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day (#1) Traning and projects/Day[1]Python [strings].py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day (#1) Traning and projects/Input()Function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day (#1) Traning and projects/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day (#1) Traning and projects/Variables.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day (#1) Traning and projects/artimatics.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#2) Tranning and projects/Bills Calcultaotrs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#2) Tranning and projects/Data Types Exercies.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#2) Tranning and projects/Math Operators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#2) Tranning and projects/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes/BMI Calculate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes/If_Condition.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes/Leap Year.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes/Logic Operator  .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes/Multiple if statment in succession .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes/Pizza Order .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes/nested if statement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes/odd or even .py" beforeDir="false" />
-    </list>
+    <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
