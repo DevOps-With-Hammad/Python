@@ -32,8 +32,8 @@ print(countries_of_africa)
 
 #List.count() == >>  return the Number of times X appears in list.
 #countries_of_africa.extend("Ymaha", "Yakoza")
-countries_of_africa.count("g")
-print(countries_of_africa)
+x = countries_of_africa.count("Egy")
+print(x)
 
 
 
