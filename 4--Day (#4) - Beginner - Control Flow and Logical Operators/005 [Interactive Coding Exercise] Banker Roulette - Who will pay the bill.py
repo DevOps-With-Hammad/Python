@@ -24,6 +24,6 @@ Names = Names_Str.split(",")
 print(len(Names))
 Num_of_items = len(Names)
 chois = random.randint(0, Num_of_items-1)
-print(chois)
+Chois = Names[chois]
+print("Person who is gonna pay for our meal today is \n" + Chois)
 
-# wow You have mad it wow
