@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/4--Day (#4) - Beginner - Control Flow and Logical Operators/005 [Interactive Coding Exercise] Banker Roulette - Who will pay the bill.py" beforeDir="false" afterPath="$PROJECT_DIR$/4--Day (#4) - Beginner - Control Flow and Logical Operators/005 [Interactive Coding Exercise] Banker Roulette - Who will pay the bill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4--Day (#4) - Beginner - Control Flow and Logical Operators/006   README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4--Day (#4) - Beginner - Control Flow and Logical Operators/006 IndexErrors and Working with Nested Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
       <recent name="G:\100_Days_in_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.005 [Interactive Coding Exercise] Banker Roulette - Who will pay the bill">
+  <component name="RunManager" selected="Python.006 IndexErrors and Working with Nested Lists">
     <configuration name="005 [Interactive Coding Exercise] Banker Roulette - Who will pay the bill" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +69,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4--Day (#4) - Beginner - Control Flow and Logical Operators/005 [Interactive Coding Exercise] Banker Roulette - Who will pay the bill.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="006 IndexErrors and Working with Nested Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_in_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Hammad\PycharmProjects\hammad\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4--Day (#4) - Beginner - Control Flow and Logical Operators" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4--Day (#4) - Beginner - Control Flow and Logical Operators/006 IndexErrors and Working with Nested Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,27 +200,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Logic Operator  " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_Days_in_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Hammad\AppData\Local\Programs\Python\Python310\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day(#3) COnditional Statements, Logical, code BLocks and Scopes/Logic Operator  .py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Module " type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.006 IndexErrors and Working with Nested Lists" />
         <item itemvalue="Python.005 [Interactive Coding Exercise] Banker Roulette - Who will pay the bill" />
         <item itemvalue="Python.05- 005 [Interactive Coding Exercise] Banker Roulette - Who will pay the bill" />
         <item itemvalue="Python.03- Heads &amp; Tails" />
         <item itemvalue="Python tests.Python tests in 03- Heads &amp; Tails.py" />
-        <item itemvalue="Python.Logic Operator  " />
       </list>
     </recent_temporary>
   </component>
