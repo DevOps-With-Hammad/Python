@@ -7,4 +7,3 @@ num_list = len(Ox)
 randch = random.randint(0, num_list-1)
 personwhopays = Ox[randch]
 print(personwhopays + " he is going to pay today ")
-
