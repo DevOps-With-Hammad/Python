@@ -1,0 +1,233 @@
+[33mcommit 057d5bad9e47ec7acf6fe6c33441131a67561d82[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Thu Nov 30 19:29:53 2023 +0200
+
+     05 - Day 5 - 100 day in Python
+
+[33mcommit a3c2d7e6ba73425e8030a98f546203564ce48c38[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sun Nov 12 20:42:34 2023 +0200
+
+    Task 001 >>😒 Day 005 >> 100 Day In python .
+
+[33mcommit 30c5c565f1300348083ad1434f585aa39c8b52f3[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sun Nov 12 03:29:09 2023 +0200
+
+    Task 001 >> day 004 >> 100 Day In Python : 😉
+
+[33mcommit 28fba0a6e2337f63e9616a3933424f1351b8b54f[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sun Nov 12 00:45:49 2023 +0200
+
+    Task 007 >> day 004 >> 100day In Python 👽
+
+[33mcommit 8743aa86c4fb5aca1549007955e87843f4ad0ed2[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sat Nov 11 23:46:37 2023 +0200
+
+    Task 007 >> Day 004 >> 100 Dayin python
+
+[33mcommit 3e7e7c3b20b0c6900e4306396068c95ef5f12ae1[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Fri Nov 10 06:18:30 2023 +0200
+
+    task>> 006- Day>> 004- 100Day in Python *Nested list index rang error*
+
+[33mcommit d05be81c8d325b6778f678ab16488aa29d762bae[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Fri Nov 10 05:41:31 2023 +0200
+
+    Task 5 random chois 004 Day 100DayInPython
+
+[33mcommit 34cbe11964effdf06d0beb779333cb7ffca92856[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Fri Nov 10 05:29:03 2023 +0200
+
+    who is gonna pay 004Day task 5
+
+[33mcommit 1d00a3505710e47da5f74f86dbe2727e5c3fcf01[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Fri Nov 10 03:03:03 2023 +0200
+
+    New commit in day004 after BIg Break
+
+[33mcommit 8ec7afecbb8c4fa60b7b15014a722bf78f0858fe[m
+Author: macrocaredc <accounts@macro.care>
+Date:   Sat Sep 23 15:43:20 2023 +0300
+
+    who is going to pay :XD task 04day >> 100dayin py
+
+[33mcommit 24056cc0b95f2969495acbfce32e05173a5e242a[m
+Author: macrocaredc <accounts@macro.care>
+Date:   Sat Sep 23 15:19:48 2023 +0300
+
+     hot fix to 04 task 004day >> 100day in python
+
+[33mcommit afce1fab11fe14c8a7fb0ba125738372d23498e7[m
+Author: macrocaredc <accounts@macro.care>
+Date:   Sat Sep 23 15:16:17 2023 +0300
+
+     Task 4 Items In lists >>> 004 Day 100Day in Python
+
+[33mcommit beb054cac85694ddc66663e52ec88afee1155668[m
+Author: macrocaredc <accounts@macro.care>
+Date:   Sat Sep 23 14:20:15 2023 +0300
+
+     03 Day>>004 >> 100DayinPy
+
+[33mcommit 800357645f727c1d935901bb2b91bbe777e2e244[m
+Author: macrocaredc <accounts@macro.care>
+Date:   Sat Sep 23 14:08:30 2023 +0300
+
+     New Messa
+
+[33mcommit 63391e908f6e56b8168233dafc62bf591987a0cb[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Thu Sep 7 11:28:01 2023 +0300
+
+    Task 1 day 004 >>100 day python + files and dirs modification
+
+[33mcommit 5a663d0060cfb515dce9fb72fced29600e3bdbb2[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Wed Sep 6 12:58:17 2023 +0300
+
+     Task 9 *Last* Day003 >>> 100python
+
+[33mcommit 488e3e4373ae1b9065937cfc2dee6f57cf9813fb[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Tue Sep 5 16:11:45 2023 +0300
+
+    HotFix** Task 4 Day 003 >> Multiple if statment
+
+[33mcommit 78c2392cf32c5c77ac79e80134de4ff1a9b64529[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Tue Sep 5 16:03:59 2023 +0300
+
+    Task 4 in day 003 >> Muiltiple if statment in one
+
+[33mcommit 9a946482a3ea8eaa87f54d4537272e38c240c47a[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Tue Sep 5 15:48:09 2023 +0300
+
+     Task3 in day 3 Leap Year or no : Leap
+
+[33mcommit fefcb1eacf5797f85a4019e921e976a7055ab2b6[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Tue Sep 5 14:36:50 2023 +0300
+
+    Commiting a new tasks to the day3 out of 100
+
+[33mcommit b0d62ba26c9e58abf01d681827469ce8f8fdfda9[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Wed Aug 16 04:43:16 2023 +0300
+
+    adding f statement first time for me Day #3
+
+[33mcommit 848f30c379d8c80c54a5982532768d05499e06ca[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Wed Aug 16 01:06:35 2023 +0300
+
+    Day #3
+
+[33mcommit cf5b1ef30292cee7279330da189fff4e1d5f4edb[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Wed Aug 16 00:14:33 2023 +0300
+
+    It was a great test to have
+
+[33mcommit 596bb675a67b7df2289ef73f423dee5e20966608[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Wed Aug 16 00:04:38 2023 +0300
+
+    adding day 2.1
+
+[33mcommit 6441b8e216730c88ca8d029872260b6acbad2fa2[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Tue Aug 15 23:52:17 2023 +0300
+
+    Removing all BOotsrap 5.3 data because there is no need to them now
+
+[33mcommit dc5e65ecd3345ec70f6d57bcab40e5a766a90671[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sat Aug 12 16:23:15 2023 +0300
+
+    adding index.html
+
+[33mcommit 0589821693fa72e53b65a06b016019c504cb4af6[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sat Aug 12 16:09:52 2023 +0300
+
+    My first Html home page in python
+
+[33mcommit 3a24ec92faff9306741c2599b39973b77af53dd7[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sat Aug 12 16:01:17 2023 +0300
+
+    commit BootStrap 5
+
+[33mcommit e266cedbb733dadb96aa7b8f463930884eca2c05[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Tue Aug 8 01:13:29 2023 +0300
+
+    My First Project Day 1
+
+[33mcommit 1e8f836a8f49092aff21cf4c97c6114ea521b47c[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sun Aug 6 16:16:02 2023 +0300
+
+    adding new commit
+
+[33mcommit 2e352519a29c0dde5b0a938ace04083d1a53720e[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sun Aug 6 16:00:41 2023 +0300
+
+    adding new commit
+
+[33mcommit fe6eb20b99b234e66bdab127a3a71067ea3f69c6[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sun Aug 6 14:59:49 2023 +0300
+
+    adding new commit
+
+[33mcommit ffcfb2cef0b363127e01500ef454c1bcc4c5d683[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sat Aug 5 22:08:25 2023 +0300
+
+    adding new commit
+
+[33mcommit 748cbe1f2b227ce46ea1f88d4c07b1de3049bfb8[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sat Aug 5 21:50:50 2023 +0300
+
+    adding new commit
+
+[33mcommit 53f057e87e184e0c2ebc064911d6bf4c491566a5[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sat Aug 5 21:48:35 2023 +0300
+
+    end of nesting function lesson #11
+
+[33mcommit 85f1ce2575ba127bf27a1f733afd353aa58335b6[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sat Aug 5 21:09:09 2023 +0300
+
+    Adding new python file
+
+[33mcommit 9a7c2e52af95ae8b2e10709d49e2624b3a6eb2ca[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sat Aug 5 20:48:47 2023 +0300
+
+    removing master from the local machin
+
+[33mcommit 67a0475458906ece7abb9f0423c56155a486f266[m
+Author: hammad-ibrahim <hammad.ibrahim21994@gmail.com>
+Date:   Sat Aug 5 20:47:16 2023 +0300
+
+     select main branch
+
+[33mcommit 7312e665024f7a79bb10949907999a3c0498d6fc[m
+Author: hammad-ibrahim <95659983+hammad-ibrahim@users.noreply.github.com>
+Date:   Sat Aug 5 20:31:38 2023 +0300
+
+    Initial commit
