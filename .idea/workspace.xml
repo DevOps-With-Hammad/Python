@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/05 - Day 5 - Beginner - Python Loops/002 - 002 Using the for loop with Python Lists.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 - Day 5 - Beginner - Python Loops/002 Using the for loop with Python Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 - Day 5 - Beginner - Python Loops/003 [Interactive Coding Exercise] Average Height.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 - Day 5 - Beginner - Python Loops/003 [Interactive Coding Exercise] Average Height.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
