@@ -9,3 +9,6 @@ for Num in range(1, 101):
     if Num % 2 == 0:
         total2 += Num
 print(f"Here is the same output with new way to sole the problem \n {total2}")
+
+# Job well done
+# Hammad
