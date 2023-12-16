@@ -5,4 +5,4 @@ def greeting(name, location):
 
 greeting("ahmed", "IT")
 greeting("Sama", "HR")
-greeting("Ayya", "Home")
+greeting("Braa'a", "Home")
