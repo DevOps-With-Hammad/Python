@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6--Day (#6) - Beginner - Python Functions &amp; Karel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/6--Day (#6) - Beginner - Python Functions &amp; Karel/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-- Day (#8) - Beginner - Function Parameters &amp; Caesar Cipher/004 [Interactive Coding Exercise] Paint Area Calculator.md" beforeDir="false" afterPath="$PROJECT_DIR$/8-- Day (#8) - Beginner - Function Parameters &amp; Caesar Cipher/004 [Interactive Coding Exercise] Paint Area Calculator.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-- Day (#8) - Beginner - Function Parameters &amp; Caesar Cipher/004 [Interactive Coding Exercise] Paint Area Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/8-- Day (#8) - Beginner - Function Parameters &amp; Caesar Cipher/004 [Interactive Coding Exercise] Paint Area Calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <recent name="G:\100_Days_in_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.003 Positional vs. Keyword Arguments">
+  <component name="RunManager" selected="Python.004 [Interactive Coding Exercise] Paint Area Calculator">
     <configuration name="002 Functions with Inputs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,6 +135,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 - Day 5 - Beginner - Python Loops/003 [Interactive Coding Exercise] Average Height.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="004 [Interactive Coding Exercise] Paint Area Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_in_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8-- Day (#8) - Beginner - Function Parameters &amp; Caesar Cipher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8-- Day (#8) - Beginner - Function Parameters &amp; Caesar Cipher/004 [Interactive Coding Exercise] Paint Area Calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,27 +332,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="challenge (#1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_Days_in_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7-- Day (#7) - Beginner - Hangman" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7-- Day (#7) - Beginner - Hangman/challenge (#1).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="nested if statement" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,11 +355,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.004 [Interactive Coding Exercise] Paint Area Calculator" />
         <item itemvalue="Python.003 Positional vs. Keyword Arguments" />
         <item itemvalue="Python.002 Functions with Inputs" />
         <item itemvalue="Python.Challenge (#3)" />
         <item itemvalue="Python.Challenge (#2) replacing blnaks " />
-        <item itemvalue="Python.challenge (#1)" />
       </list>
     </recent_temporary>
   </component>
