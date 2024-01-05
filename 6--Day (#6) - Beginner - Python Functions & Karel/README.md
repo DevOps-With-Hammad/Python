@@ -1,5 +1,5 @@
 # 06 - Day 6 - Beginner - Python Functions & Karel
-# COntent of the day:-
+# Content of the day:-
         - 001 Day 6 Goals what we will make by the end of the day.
         - 002 Defining and Calling Python Functions.
         - 003 The Hurdles Loop Challenge.
