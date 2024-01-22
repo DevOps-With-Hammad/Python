@@ -1,19 +1,18 @@
-# 08- Day 8 - Beginner-Function-Parameters-Caesar-Cipher.
+# 09 - Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
  - Master lever >> Beginner level.
     - Branch details:- 
         - DPYT100HON-1-Entry_level. 
             - PYTH-13-08-Day-8-Beginner-Function-Parameters-Caesar-Cipher.
 
-# Day008 Content :- 
-    - 001 Day 8 Goals what we will make by the end of the day
-    - 002 Functions with Inputs.
-    - 003 Positional vs. Keyword Arguments.
-    - 004 [Interactive Coding Exercise] Paint Area Calculator.
-    - 005 [Interactive Coding Exercise] Prime Number Checker.
-    - 006 Caesar Cipher Part 1 - Encryption.
-    - 007 Caesar Cipher Part 2 - Decryption.
-    - 008 Caesar Cipher Part 3 - Reorganising our Code.
-    - 009 Caesar Cipher Part 4 - User Experience Improvements & Final Touches.
+# Day009 Content :- 
+    - 001 Day 9 Goals what we will make by the end of the day
+    - 002 The Python Dictionary Deep Dive.
+    - 003 [Interactive Coding Exercise] Grading Program.
+    - 004 Nesting Lists and Dictionaries.
+    - 005 [Interactive Coding Exercise] Dictionary in List.
+    - 006 The Secret Auction Program Instructions and Flow Chart.
+    - 007 Solution and Complete Code for the Secret Auction Program.
+    - 008 Motivation and the Accountability Trick.
 
 # Project details and workspace platform ( # Jira Software - atlassian).
  - Project link :- 100day in python 
@@ -33,4 +32,5 @@
 
 
 # Python for everything.
+
 # Wish me Luck.
