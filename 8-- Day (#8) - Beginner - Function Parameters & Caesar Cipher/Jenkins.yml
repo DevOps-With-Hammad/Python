@@ -1,0 +1,68 @@
+pipeline {
+    agent any
+
+    parameters {
+        string(
+            name: 'DO_ACCESS_TOKEN',
+            description: 'DigitalOcean API access token',
+            defaultValue: '',
+            secret: true
+        )
+        string(
+            name: 'DROPLET_NAME',
+            description: 'Name for the new droplet',
+            defaultValue: ''
+        )
+        string(
+            name: 'REGION',
+            description: 'Region to create the droplet in',
+            defaultValue: 'nyc3'
+        )
+        choice(
+            name: 'IMAGE',
+            choices: ['ubuntu-20.04-x64', 'centos-8-x64'],
+            description: 'Operating system image for the droplet'
+        )
+        string(
+            name: 'SIZE',
+            description: 'Droplet size (e.g., s-1vcpu-1gb)',
+            defaultValue: ''
+        )
+    }
+
+    stages {
+        stage('Create Droplet') {
+            steps {
+                sh 'doctl compute droplet create --token=$DO_ACCESS_TOKEN \
+                    --name=$DROPLET_NAME \
+                    --region=$REGION \
+                    --image=$IMAGE \
+                    --size=$SIZE \
+                    --ssh-keys=your_ssh_key_fingerprint'
+            }
+        }
+        stage('Wait for Droplet to be Running') {
+            steps {
+                sh 'doctl compute droplet wait-until-created --token=$DO_ACCESS_TOKEN --name=$DROPLET_NAME --timeout=300'
+            }
+        }
+        stage('Get Droplet IP Address') {
+            steps {
+                script {
+                    output = sh(text: 'doctl compute droplet get --token=$DO_ACCESS_TOKEN --name=$DROPLET_NAME', returnStdout: true).trim()
+                    ipAddress = output.split(/,/).find { it =~ /\bIPv4:\s+[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+\b/ }.split(':')[1].trim()
+                    echo "Droplet IP address: ${ipAddress}"
+                }
+            }
+        }
+    }
+
+    post {
+        success {
+            echo "Droplet creation successful!"
+        }
+        failure {
+            echo "Droplet creation failed."
+        }
+    }
+}

@@ -1,0 +1,16 @@
+name: Deploy to DigitalOcean
+
+on:
+  push:
+    branches: [main]  # Trigger on push to main branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: digitalocean/action-doctl@v2  # Use DigitalOcean's doctl action
+        with:
+          token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
+      - run: doctl compute ssh ${{ secrets.DROPLET_IP_ADDRESS }} --ssh-key ${{ secrets.SSH_KEY }} --command "cd /path/to/deploy/folder && git pull"
