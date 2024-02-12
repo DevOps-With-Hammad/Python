@@ -7,7 +7,7 @@
 
 
 def add(n1, n2):
-    return n1 + n1
+    return n1 + n2
 
 
 """Second:-
@@ -69,8 +69,6 @@ def calculator():
         else:
             should_continue = False
             calculator()
-
-
 
 
 calculator()
