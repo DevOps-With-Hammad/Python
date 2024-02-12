@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/calculator [final project of the day ].py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/calculator  Part 2[final project of the day ].py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Unit Test" />
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -57,28 +57,7 @@
       <recent name="G:\100_Days_in_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calculator [final project of the day ]">
-    <configuration name="002 Functions with Outputs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_Days_in_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/002 Functions with Outputs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.calculator  Part 2[final project of the day ]">
     <configuration name="002 Using the for loop with Python Lists" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,6 +289,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="calculator  Part 2[final project of the day ]" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_in_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/calculator  Part 2[final project of the day ].py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="calculator [final project of the day ]" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -354,11 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calculator  Part 2[final project of the day ]" />
         <item itemvalue="Python.calculator [final project of the day ]" />
         <item itemvalue="Python.Leap year In a Diffrenet way of code" />
         <item itemvalue="Python.004 [Interactive Coding Exercise] Days in Month (Leap Year)" />
         <item itemvalue="Python.003 Multiple return values" />
-        <item itemvalue="Python.002 Functions with Outputs" />
       </list>
     </recent_temporary>
   </component>
