@@ -50,14 +50,14 @@ operation = {
 
 
 def calculator():
-    num1 = int(input("First Number Plz : "))
+    num1 = float(input("First Number Plz : "))
     for symbol in operation:
         print(symbol)
     should_continue = True
 
     while should_continue:
-        operation_symbols = input("Plz Pick an operation :")
-        num2 = int(input("Next Number Plz : "))
+        operation_symbols = input("Plz Pick an operation : ")
+        num2 = float(input("Next Number Plz : "))
         calculation_function = operation[operation_symbols]
         answer = calculation_function(num1, num2)
 
