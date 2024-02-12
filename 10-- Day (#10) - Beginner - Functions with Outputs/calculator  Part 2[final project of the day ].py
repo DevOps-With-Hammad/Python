@@ -53,7 +53,7 @@ def calculator():
     num1 = float(input("First Number Plz : "))
     for symbol in operation:
         print(symbol)
-    should_continue = True
+    should_continue = True #
 
     while should_continue:
         operation_symbols = input("Plz Pick an operation : ")
