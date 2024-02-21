@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/Calculator from Gemini.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/calculator  Part 2[final project of the day ].py" beforeDir="false" afterPath="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/calculator  Part 2[final project of the day ].py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Black Jack Part 01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Local Scope and Globale Scope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Locale Scope and Globle Scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Name spaces excercies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Scope with IF inside Function of out of it.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +62,7 @@
       <recent name="G:\100_Days_in_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Calculator from Gemini">
+  <component name="RunManager" selected="Python.Scope with IF inside Function of out of it">
     <configuration name="002 Using the for loop with Python Lists" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="004 [Interactive Coding Exercise] Days in Month (Leap Year)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="005 [Interactive Coding Exercise] Dictionary in List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9--  Day (#9) - Beginner - Dictionaries, Nesting and the Secret Auction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/004 [Interactive Coding Exercise] Days in Month (Leap Year).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9--  Day (#9) - Beginner - Dictionaries, Nesting and the Secret Auction/005 [Interactive Coding Exercise] Dictionary in List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Calculator from Gemini" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Black Jack Part 01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/Calculator from Gemini.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Black Jack Part 01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Leap year In a Diffrenet way of code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Locale Scope and Globle Scope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/Leap year In a Diffrenet way of code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Locale Scope and Globle Scope.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculator  Part 2[final project of the day ]" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Name spaces excercies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/calculator  Part 2[final project of the day ].py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Name spaces excercies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculator [final project of the day ]" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Scope with IF inside Function of out of it" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,11 +323,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-- Day (#10) - Beginner - Functions with Outputs/calculator [final project of the day ].py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Scope with IF inside Function of out of it.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Calculator from Gemini" />
-        <item itemvalue="Python.calculator  Part 2[final project of the day ]" />
-        <item itemvalue="Python.calculator [final project of the day ]" />
-        <item itemvalue="Python.Leap year In a Diffrenet way of code" />
-        <item itemvalue="Python.004 [Interactive Coding Exercise] Days in Month (Leap Year)" />
+        <item itemvalue="Python.Scope with IF inside Function of out of it" />
+        <item itemvalue="Python.Locale Scope and Globle Scope" />
+        <item itemvalue="Python.Name spaces excercies" />
+        <item itemvalue="Python.Black Jack Part 01" />
+        <item itemvalue="Python.005 [Interactive Coding Exercise] Dictionary in List" />
       </list>
     </recent_temporary>
   </component>
