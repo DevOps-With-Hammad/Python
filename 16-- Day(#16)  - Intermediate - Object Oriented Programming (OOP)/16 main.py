@@ -9,8 +9,9 @@ print("Here is your answer " + str(another_module.car + another_module.merc)
 # Let's Play a little with Turtle
 from turtle import Turtle, Screen
 Hammad = Turtle()
-print("Hammad")
-
+print(Hammad)
+Hammad.shape("turtle")
+Hammad.color("yellow")
 my_screen = Screen()
 print(my_screen.canvheight)
 my_screen.exitonclick()
