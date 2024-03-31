@@ -12,3 +12,6 @@ User_4  = Phone("Twitter", "Ball", "System")
 print(User_1.app, User_1.games, User_1.other)
 print(User_3.games)
 print(User_2.other)
+
+# End of creation of class
+
