@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Black Jack Part 01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Local Scope and Globale Scope" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Locale Scope and Globle Scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Name spaces excercies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 -- Day (#11) - Beginner - The Blackjack Capstone Project/Scope with IF inside Function of out of it.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/master.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +29,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2TZgDodGE0CO59u6bAyVsjPX5MQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,22 +43,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/Galaxy_Cars/Galaxy_Cars_Front&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.main.executor": "Run",
+    "Python.master.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/Galaxy_Cars/Galaxy_Cars_Front",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
+}]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\Hammad\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="319593cd-83fe-4957-aa57-db18b9e13335" reportId="100_Days_in_python/qodana/٢٠٢٤-٠٣-٣١" />
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\100_Days_in_python\4--Day (#4) - Beginner - Control Flow and Logical Operators" />
@@ -62,9 +75,10 @@
       <recent name="G:\100_Days_in_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Scope with IF inside Function of out of it">
+  <component name="RunManager" selected="Python.master">
     <configuration name="002 Using the for loop with Python Lists" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -86,6 +100,7 @@
     </configuration>
     <configuration name="003 [Interactive Coding Exercise] Average Height" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -105,29 +120,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="005 [Interactive Coding Exercise] Dictionary in List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_Days_in_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9--  Day (#9) - Beginner - Dictionaries, Nesting and the Secret Auction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9--  Day (#9) - Beginner - Dictionaries, Nesting and the Secret Auction/005 [Interactive Coding Exercise] Dictionary in List.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="007 [Interactive Coding Exercise] Treasure Map" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -149,6 +144,7 @@
     </configuration>
     <configuration name="04 - Items to Lists" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -170,6 +166,7 @@
     </configuration>
     <configuration name="BMI Calculate" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -191,6 +188,7 @@
     </configuration>
     <configuration name="Black Jack Part 01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -212,6 +210,7 @@
     </configuration>
     <configuration name="Heads and Tails " type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -233,6 +232,7 @@
     </configuration>
     <configuration name="Locale Scope and Globle Scope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -254,6 +254,7 @@
     </configuration>
     <configuration name="Module " type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -275,6 +276,7 @@
     </configuration>
     <configuration name="Multiple if statment in succession " type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -296,6 +298,7 @@
     </configuration>
     <configuration name="Name spaces excercies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -317,6 +320,7 @@
     </configuration>
     <configuration name="Scope with IF inside Function of out of it" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -336,8 +340,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="master" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/master.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="nested if statement" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -359,13 +408,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.master" />
         <item itemvalue="Python.Scope with IF inside Function of out of it" />
         <item itemvalue="Python.Locale Scope and Globle Scope" />
         <item itemvalue="Python.Name spaces excercies" />
         <item itemvalue="Python.Black Jack Part 01" />
-        <item itemvalue="Python.005 [Interactive Coding Exercise] Dictionary in List" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
