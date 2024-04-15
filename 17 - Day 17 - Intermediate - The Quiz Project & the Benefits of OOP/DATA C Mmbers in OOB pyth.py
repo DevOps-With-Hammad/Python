@@ -1,10 +1,10 @@
 # Let's declare our class using our current data
 class DATAC :
-    def __init__(self, Co_Founders=[], Companies=[] , D_C_Employees=[], Mc_Employyees=[]):
+    def __init__(self, Co_Founders=[], Companies=[] , D_C_Employees=[], Mc_Employees=[]):
         self.Heads = Co_Founders
         self.Companiess = Companies
         self.DCEMPS = D_C_Employees
-        self.MCEMPS = Mc_Employyees
+        self.MCEMPS = Mc_Employees
 
 DATAC_Comapny= DATAC (["Hassan", "Abeed"] ,
                       ["DATA C ", "Macrocare"] ,

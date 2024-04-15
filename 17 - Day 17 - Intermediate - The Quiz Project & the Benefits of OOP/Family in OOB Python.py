@@ -1,5 +1,5 @@
 # Class
-import self
+
 
 
 class Family:
