@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/rectangle in OOB class .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/OOB python excerise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Quiz Game in OOB. md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/DATA C Mmbers in OOB pyth.py" beforeDir="false" afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/DATA C Mmbers in OOB pyth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Family in OOB Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Family in OOB Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/rectangle in OOB class .py" beforeDir="false" afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/rectangle in OOB class .py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "git-widget-placeholder": "PYTH-22-17-Day-17-Intermediate-The-Quiz-Project-the-Benefits-of-OOP",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "G:/Galaxy_Cars/Galaxy_Cars_Front",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -391,6 +392,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP" />
       <option name="IS_MODULE_SDK" value="true" />
