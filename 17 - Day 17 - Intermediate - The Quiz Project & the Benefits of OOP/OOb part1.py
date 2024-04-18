@@ -25,14 +25,16 @@ print(f"Here is the family of {Family_Head}.\n"
 
 """
 
-class Family:
-  def __init__(self, family_name, father, mother, boys=[], girls=[]):
-    self.family_name = family_name
-    self.parents = [father, mother]
-    self.boys = boys
-    self.girls = girls
 
-    # Add methods to manage family members (optional)
+class Family:
+    def __init__(self, family_name, father, mother, boys=[], girls=[]):
+        self.family_name = family_name
+        self.parents = [father, mother]
+        self.boys = boys
+        self.girls = girls
+
+        # Add methods to manage family members (optional)
+
 
 # Create a Family object
 araby_family = Family("ArabyFamily", "Araby", "Salah", ["Alaa", "Sherif"], ["Ayat", "Aya", "Yoya"])
@@ -42,7 +44,3 @@ print(f"The {araby_family.family_name} family:\n"
       f"  Parents: {araby_family.parents[0]} & {araby_family.parents[1]}\n"
       f"  Boys: {', '.join(araby_family.boys)}\n"
       f"  Girls: {', '.join(araby_family.boys)}")
-
-
-
-

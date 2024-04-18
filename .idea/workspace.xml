@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/OOB python excerise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Quiz Game in OOB. md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/rectangle in OOB class .py" beforeDir="false" afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/rectangle in OOB class .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/OOb part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/OOb part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qodana.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Question_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +46,11 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.003 [Interactive Coding Exercise] Grading Program.executor": "Run",
     "Python.DATA C Mmbers in OOB pyth.executor": "Run",
     "Python.Family in OOB Python.executor": "Run",
-    "Python.OOb part1.executor": "Debug",
+    "Python.OOB python excerise.executor": "Run",
+    "Python.OOb part1.executor": "Run",
     "Python.main.executor": "Run",
     "Python.master.executor": "Run",
     "Python.rectangle in OOB class .executor": "Run",
@@ -78,7 +79,7 @@
       <recent name="G:\100_Days_in_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.rectangle in OOB class ">
+  <component name="RunManager" selected="Python.OOB python excerise">
     <configuration name="002 Using the for loop with Python Lists" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="ENV_FILES" value="" />
@@ -115,6 +116,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 - Day 5 - Beginner - Python Loops/003 [Interactive Coding Exercise] Average Height.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="003 [Interactive Coding Exercise] Grading Program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9--  Day (#9) - Beginner - Dictionaries, Nesting and the Secret Auction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9--  Day (#9) - Beginner - Dictionaries, Nesting and the Secret Auction/003 [Interactive Coding Exercise] Grading Program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,28 +234,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Family in OOB Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_Days_in_python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Family in OOB Python.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Heads and Tails " type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="ENV_FILES" value="" />
@@ -299,6 +300,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="OOB python excerise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_in_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/OOB python excerise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="OOb part1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_in_python" />
       <option name="ENV_FILES" value="" />
@@ -335,28 +358,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="master" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_Days_in_python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/master.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,11 +412,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OOB python excerise" />
+        <item itemvalue="Python.OOb part1" />
+        <item itemvalue="Python.003 [Interactive Coding Exercise] Grading Program" />
         <item itemvalue="Python.rectangle in OOB class " />
         <item itemvalue="Python.DATA C Mmbers in OOB pyth" />
-        <item itemvalue="Python.Family in OOB Python" />
-        <item itemvalue="Python.OOb part1" />
-        <item itemvalue="Python.master" />
       </list>
     </recent_temporary>
   </component>
