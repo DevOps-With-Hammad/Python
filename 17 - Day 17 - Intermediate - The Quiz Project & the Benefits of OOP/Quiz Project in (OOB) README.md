@@ -3,7 +3,9 @@
 # QUiz Project Part(1) Creating the Question class 
  - First creating the Class Question with 2 attributes  (Text & Answer)
 
-
+```
+    Pytoh -- OOB 
+    
     class Question:
     def __init__(self, q_text, q_answer):
         # creating attributes
@@ -14,7 +16,7 @@
     {new_q.text} 
     \n and the answer for it is as you can see 
     \n {new_q.answer}")
-
+```
 # QUiz Project Part (2) Creating the list of Question Class.
 
         
