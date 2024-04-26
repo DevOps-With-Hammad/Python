@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b631547d-786a-4c56-9467-bc2c08dac788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/DATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/DATA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Quiz Game- Creating the List of Question Objects from the Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Quiz Project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Quiz Project/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Quiz Project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Quiz Project/question_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/Quiz Project/quiz_brain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/17 - Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
