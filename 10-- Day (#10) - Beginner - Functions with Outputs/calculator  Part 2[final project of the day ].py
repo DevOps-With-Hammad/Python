@@ -1,6 +1,6 @@
 # Calculator Part 2
 
-# 006 Calculator Part 1 Combining Dictionaries and Functions.
+# 006 Calculator Part :1 Combining Dictionaries and Functions.
 """First:- defining the operation function in the code as we go.
  Add
  """
