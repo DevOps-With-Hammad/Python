@@ -17,7 +17,9 @@ ch_height = float(Height)
 new_height = ch_height + 0.66
 print(new_height)
 
-# Exercise 2.3: How to Change the Content or Type of a Variable
+
+
+
 
 # Given:
 # Ali is 1.65 meters tall and Sara is 1.09 meters tall.
