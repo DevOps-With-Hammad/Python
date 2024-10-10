@@ -1,4 +1,4 @@
-#3. [BIA] "Exercise 2.1 Using String and Integer Data Types"
+#2. [BIA] "Exercise 2.1 Using String and Integer Data Types"
 """
 Line 1 : > Define name as string variable and call it python
 Line 2 : > Print the name
