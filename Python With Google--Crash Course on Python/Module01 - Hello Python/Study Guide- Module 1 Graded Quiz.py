@@ -37,3 +37,12 @@ print(y**6)
 " Give it a try , Happy coding "
 
 
+# Skill 3 --Use variables with assignment and arithmetic operators
+#
+# Assignment of values to the variables.
+years =10
+weeks_in_decade = 52
+# This variable is assigned an arithmetic calculation
+# print the calculation stored int the "weeks_in_year" variables
+print(weeks_in_decade)
+
