@@ -46,3 +46,7 @@ weeks_in_decade = 52
 # print the calculation stored int the "weeks_in_year" variables
 print(weeks_in_decade)
 
+# Skill 3 -- Use variables with assignment and arithmetic operators
+# Assignment of values to the variables
+
+
