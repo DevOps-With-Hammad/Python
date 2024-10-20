@@ -22,7 +22,7 @@ The total number of different password is 26* 26* 26* 26* 26*26 = 26 **6
 Calculating this, we get 308,915,776 possible passwords
 
 """
-# let's give it a try ..
+# let's give it a try.
 
 english_letters = 26
 Password_letters = 6

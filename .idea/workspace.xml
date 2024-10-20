@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python/M1- Graded assesment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python/Study Guide- Module 1 Graded Quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python/Study Guide- Module 1 Graded Quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python/M1- Graded assesment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python/M1- Graded assesment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Hello World.executor": "Run",
-    "Python.M1- Graded assesment.executor": "Run",
-    "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Py__google--into__to__python",
-    "last_opened_file_path": "G:/Software_enginnering-Code_base",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Hello World.executor&quot;: &quot;Run&quot;,
+    &quot;Python.M1- Graded assesment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Study Guide- Module 1 Graded Quiz.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Py__google--into__to__python&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Software_enginnering-Code_base&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Software_enginnering-Code_base" />
