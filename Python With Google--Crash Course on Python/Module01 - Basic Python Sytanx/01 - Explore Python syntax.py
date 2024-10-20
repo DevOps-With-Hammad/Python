@@ -12,3 +12,12 @@ to_celsius(35)
 print(to_celsius(15))
 print(to_celsius(95))
 print(to_celsius(125))
+############################
+# Conditional statements: Sections of code that direct program execution based on specified conditions
+number = -4
+if number > 0:
+    print("number is positive ")
+elif number == 0 :
+    print("Number is Zero ")
+else:
+    print(" Number is negative ")
