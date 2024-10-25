@@ -16,3 +16,10 @@ print(type(2.5))
 print(type("a"))
 print(type(2))
 print(type(2.5))
+
+#############
+#Expressions, numbers, and type conversions.
+print(9+7.5)
+print("a"+ "b " + "c")
+print("This" + "is" + "pretty" + "neat!")
+
