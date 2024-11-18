@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/2- [BIA] Level 2 Data Types and Variables/3. [BIA] Exercise 2.1 Using String and Integer Data Types.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python/M1- Graded assesment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python/M1- Graded assesment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hammad-ibrahim"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DevOps-With-Hammad/Software_enginnering-Code_base.git",
+    "accountId": "52614591-9e01-413a-9cab-e2f808cafdfd"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -36,11 +48,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.2. [BIA] How to Code Data Types &amp; Variables in Python.executor&quot;: &quot;Run&quot;,
     &quot;Python.Hello World.executor&quot;: &quot;Run&quot;,
     &quot;Python.M1- Graded assesment.executor&quot;: &quot;Run&quot;,
     &quot;Python.Study Guide- Module 1 Graded Quiz.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Py__google--into__to__python&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Py24__02__BIA__DataTypes__and__variables&quot;,
     &quot;last_opened_file_path&quot;: &quot;G:/Software_enginnering-Code_base&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
@@ -53,7 +66,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.M1- Graded assesment">
+  <component name="RunManager" selected="Python.2. [BIA] How to Code Data Types &amp; Variables in Python">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -69,6 +82,28 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="2. [BIA] How to Code Data Types &amp; Variables in Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/2- [BIA] Level 2 Data Types and Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/2- [BIA] Level 2 Data Types and Variables/2. [BIA] How to Code Data Types &amp; Variables in Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Hello World" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
@@ -138,6 +173,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2. [BIA] How to Code Data Types &amp; Variables in Python" />
         <item itemvalue="Python.M1- Graded assesment" />
         <item itemvalue="Python.Study Guide- Module 1 Graded Quiz" />
         <item itemvalue="Python.Hello World" />
