@@ -9,11 +9,12 @@ Step 05 : Print the new Lunch date .
 
 """
 # Let's Code . . .
+# Let's Code . . .
 Isuzu_lunch_date = str(1920.5)
 print(Isuzu_lunch_date)
+print(type(Isuzu_lunch_date))
 Isuzu_lunch_date = float(Isuzu_lunch_date)
 print(Isuzu_lunch_date)
 print(type(Isuzu_lunch_date))
-print(Isuzu_lunch_date + 0020.20)
-print(Isuzu_lunch_date)
+print(Isuzu_lunch_date + 20.30 )
 
