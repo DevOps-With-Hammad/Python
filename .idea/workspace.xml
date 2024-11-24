@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/2- [BIA] Level 2 Data Types and Variables/3. [BIA] Exercise 2.1 Using String and Integer Data Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/2- [BIA] Level 2 Data Types and Variables/4. [BIA] Floating and Boolean Data Types.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hammad-ibrahim"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hammad-ibrahim&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DevOps-With-Hammad/Software_enginnering-Code_base.git",
-    "accountId": "52614591-9e01-413a-9cab-e2f808cafdfd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DevOps-With-Hammad/Software_enginnering-Code_base.git&quot;,
+    &quot;accountId&quot;: &quot;52614591-9e01-413a-9cab-e2f808cafdfd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -46,18 +46,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.2. [BIA] How to Code Data Types &amp; Variables in Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hello World.executor&quot;: &quot;Run&quot;,
-    &quot;Python.M1- Graded assesment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Study Guide- Module 1 Graded Quiz.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Py24__02__BIA__DataTypes__and__variables&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/Software_enginnering-Code_base&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
+    "Python.Hello World.executor": "Run",
+    "Python.M1- Graded assesment.executor": "Run",
+    "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Py24__02__BIA__DataTypes__and__variables",
+    "last_opened_file_path": "G:/pythonProject/OpsLab_WIth_Hammad",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Software_enginnering-Code_base" />
