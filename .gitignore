@@ -6,5 +6,4 @@ venv/
 
 # Ignore any other specific file
 misc.xml
-Software_enginnering-Code_base.iml
-inspectionProfiles/
+.idea/workspace.xml
