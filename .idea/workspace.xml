@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings/2. [BIA] Ex3.1 Arithmetic Rules in Python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings/1. [BIA] Arithmetic Rules in Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings/1. [BIA] Arithmetic Rules in Python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.1. [BIA] Arithmetic Rules in Python.executor": "Debug",
+    "Python.1. [BIA] Arithmetic Rules in Python.executor": "Run",
     "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
     "Python.Hello World.executor": "Run",
     "Python.M1- Graded assesment.executor": "Run",
@@ -56,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Py24__03__BIA__Level__3__Python__Math__operators__strings",
     "last_opened_file_path": "G:/pythonProject/OpsLab_WIth_Hammad",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -81,9 +81,6 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="C:\Users\Hammad\miniconda3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings" />
