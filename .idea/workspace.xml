@@ -48,6 +48,7 @@
     "Python.1. [BIA] Arithmetic Rules in Python.executor": "Run",
     "Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor": "Run",
     "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
+    "Python.3. [BIA] Stringing Together Variables.executor": "Run",
     "Python.Hello World.executor": "Run",
     "Python.M1- Graded assesment.executor": "Run",
     "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
@@ -65,7 +66,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2. [BIA] Ex3.1 Arithmetic Rules in Python">
+  <component name="RunManager" selected="Python.3. [BIA] Stringing Together Variables">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -139,6 +140,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3. [BIA] Stringing Together Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings/3. [BIA] Stringing Together Variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="M1- Graded assesment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
@@ -161,42 +184,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Study Guide- Module 1 Graded Quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python/Study Guide- Module 1 Graded Quiz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.2. [BIA] Ex3.1 Arithmetic Rules in Python" />
+      <item itemvalue="Python.3. [BIA] Stringing Together Variables" />
       <item itemvalue="Python.1. [BIA] Arithmetic Rules in Python" />
       <item itemvalue="Python.2. [BIA] How to Code Data Types &amp; Variables in Python" />
       <item itemvalue="Python.M1- Graded assesment" />
-      <item itemvalue="Python.Study Guide- Module 1 Graded Quiz" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3. [BIA] Stringing Together Variables" />
         <item itemvalue="Python.2. [BIA] Ex3.1 Arithmetic Rules in Python" />
         <item itemvalue="Python.1. [BIA] Arithmetic Rules in Python" />
         <item itemvalue="Python.2. [BIA] How to Code Data Types &amp; Variables in Python" />
         <item itemvalue="Python.M1- Graded assesment" />
-        <item itemvalue="Python.Study Guide- Module 1 Graded Quiz" />
       </list>
     </recent_temporary>
   </component>
