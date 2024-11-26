@@ -14,3 +14,5 @@ Simple_of_interest= (Principle * rate * Time) / 100
 print(f"With a Principle amount of : {Principle} USD   \n "
       f"At an annul interest rate {rate} % ,\n"
       f"In {Time} Years you will get  : {Simple_of_interest} USD in interest ")
+
+## happy Coding ##
