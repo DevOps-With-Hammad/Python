@@ -13,6 +13,8 @@ Isuzu_Msh = 1.70
 Toyota_Msh = 2.3
 Suzuki_Msh = 0.9
 avg = (Isuzu_Msh + Toyota_Msh+ Suzuki_Msh)/3
+print(f"The Maximum market Share is :{max(Isuzu_Msh,Toyota_Msh,Suzuki_Msh)} Md\n"
+      f"The Minimum Market share is :{min(Isuzu_Msh,Toyota_Msh,Suzuki_Msh)}Md")
 print(f"Isuzu Market share is :{Isuzu_Msh} Million Dollar\n"
       f"Toyota Market share is :{Toyota_Msh} Million Dollar\n"
       f"Suzuki Market Share is :{Suzuki_Msh} Million Dollar\n"
