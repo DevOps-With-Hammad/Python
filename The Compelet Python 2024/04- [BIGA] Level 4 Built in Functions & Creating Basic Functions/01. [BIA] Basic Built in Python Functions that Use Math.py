@@ -1,4 +1,4 @@
-#01. [BIA] Basic Built in Python Functions that Use Math
+#01. [BIA] Basic bulit in Python Functions that Use Math
 from statistics import median
 
 val1 = 122
