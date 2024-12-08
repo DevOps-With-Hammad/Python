@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="" />
+    <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/04-[BIA] Ex 4.2 Input Built in Python Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/5. [BIA] Input Built in Python Function.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +72,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01. [BIA] Basic Built in Python Functions that Use Math">
+  <component name="RunManager" selected="Python.5. [BIA] Input Built in Python Function">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -93,28 +96,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/01. [BIA] Basic Built in Python Functions that Use Math.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2. [BIA] Ex3.1 Arithmetic Rules in Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings/2. [BIA] Ex3.1 Arithmetic Rules in Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,6 +148,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5. [BIA] Input Built in Python Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/5. [BIA] Input Built in Python Function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
@@ -190,19 +193,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.5. [BIA] Input Built in Python Function" />
       <item itemvalue="Python.01. [BIA] Basic Built in Python Functions that Use Math" />
-      <item itemvalue="Python.2. [BIA] Ex3.1 Arithmetic Rules in Python" />
       <item itemvalue="Python.3. [BIA] Stringing Together Variables" />
       <item itemvalue="Python.4. [BIA] Ex 3.2 Stringing Together Variables" />
       <item itemvalue="Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5. [BIA] Input Built in Python Function" />
         <item itemvalue="Python.01. [BIA] Basic Built in Python Functions that Use Math" />
         <item itemvalue="Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account" />
         <item itemvalue="Python.4. [BIA] Ex 3.2 Stringing Together Variables" />
         <item itemvalue="Python.3. [BIA] Stringing Together Variables" />
-        <item itemvalue="Python.2. [BIA] Ex3.1 Arithmetic Rules in Python" />
       </list>
     </recent_temporary>
   </component>
