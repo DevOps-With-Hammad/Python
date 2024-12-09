@@ -27,4 +27,15 @@ def phone(phone_brand, phone_series, phone_model, phone_sub_series, phone_releas
 
 phone(phone_brand, phone_series, phone_model, phone_sub_series, phone_release_price)
 
+# function 03
+# let's do more than declaring variables outside the scope of the function.
+# calling inside the function and asking the user for input too
+company_name = "Dell"
+company_product = ["Pcs", "Laptops", "Workstations"]
+def(company_name, which_product_you_have, product_model, product_number, product_category):
+    company_name01 = company_name + "Corporation "
+    company_product01 = company_product  + "Electronic"
+
+
+
 
