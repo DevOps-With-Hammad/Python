@@ -10,7 +10,8 @@ def car_brand(brand_name, branad_release_date, brand_market_value):
 
 car_brand(brand_name, brand_release_date, brand_market_value)
 
-# let's give it another try because I need to do so  .
+# let's give it another try because I need to do so.
+"""
 phone_brand = "Samsung"
 phone_series = "A"
 phone_model = 52
@@ -26,16 +27,41 @@ def phone(phone_brand, phone_series, phone_model, phone_sub_series, phone_releas
     print(f"It's a phone called \n {phone_series}{phone_model01}{phone_sub_series} form {phone_brand01}  ")
 
 phone(phone_brand, phone_series, phone_model, phone_sub_series, phone_release_price)
-
+"""
 # function 03
 # let's do more than declaring variables outside the scope of the function.
 # calling inside the function and asking the user for input too
+"""
 company_name = "Dell"
 company_product = ["Pcs", "Laptops", "Workstations"]
-def(company_name, which_product_you_have, product_model, product_number, product_category):
+product_model0= ["Inspirion ", "Latitude ", "XPS"]
+product_number0 = ["13s", "15s", "19s"]
+def ins(company_name, product_model0, product_number0):
     company_name01 = company_name + "Corporation "
-    company_product01 = company_product  + "Electronic"
+    company_product01 = company_product[0]+"Electroins "
+    which_product_you_have01 = input(f"Please tell us which product you form >>  {company_product} is : ")
+    product_model01 = input(f"your product model form >> {product_model0} is :  ")
+    product_number01 = input(f"Your Model number form >> {product_number0} is : ")
+    product_category01 = input("please input your product category here ")
+    print(f"The company name is {company_name01}\n "
+          f"Company Product is {company_product01}\n"
+          f"The product you have is :  {which_product_you_have01} Model : {product_model01} \n Number {product_number01}  Category : {product_category01}")
 
+ins(company_name ,product_model0, product_number0)
+"""
 
+####
+##############################
+########
+# lets do some code here
 
+brand_catg = {"Samsung " : ["Note Series ", "S series ", "A Series "]}
+brand_modl = {"A series ": ["A73", "A73s " , "A52", "A52s"]}
+brand_numb = {"S sub series ": ["50 Series ", "30 series ", "70 series ", "20series "]}
+def phoned(cata , moda, numba):
+    cat1 = str(input(f"which cat is your device included form : {brand_catg}"))
+    mod1 =str(input(f"which model is your device are from : {brand_modl}"))
+    numba1 = str(input(f"Which number of series is your device included form : {brand_numb}"))
+    print(f"your device cat  is:  {cat1} \n Your device model is : {mod1}\n Your device number is : {numba1} ")
 
+phoned(cata= brand_numb, moda=brand_modl, numba=brand_numb)
