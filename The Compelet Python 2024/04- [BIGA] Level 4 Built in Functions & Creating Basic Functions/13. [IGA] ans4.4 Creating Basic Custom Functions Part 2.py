@@ -7,14 +7,14 @@
 """
 
 names= input("who was on Titanic ? : \n ")
-Year  = input("what year is it : \n ")
+year  = input("what year is it : \n ")
 def titanic(name, year):
-    Year =int(year)
-    year = Year-1912
-    year = str(year)
-    return f"{names} Were on titanic which sunk {year} ago"
+  year =int(year)
+  year = year -1912
+  year = str(year)
+  print(f"{names} Were on titanic which sunk {year} ago")
 
-titanic(names,year=Year)
+titanic(names,year)
 
 
 
