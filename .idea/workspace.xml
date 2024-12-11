@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/11.1 Creating Basics Custom function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/12. [IGA] Ex4.4 Creating Basic Custom Functions Part 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/13. [IGA] ans4.4 Creating Basic Custom Functions Part 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/14. [IGA] Creating Advanced Functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +81,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2">
+  <component name="RunManager" selected="Python.14. [IGA] Creating Advanced Functions">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -93,28 +90,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="10. [BIA] Ans 4.3 Creating Custom Functions P1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/10. [BIA] Ans 4.3 Creating Custom Functions P1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="11. [IGA] Creating Basic Custom Functions P 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
@@ -204,8 +179,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="14. [IGA] Creating Advanced Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/14. [IGA] Creating Advanced Functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.10. [BIA] Ans 4.3 Creating Custom Functions P1" />
+      <item itemvalue="Python.14. [IGA] Creating Advanced Functions" />
       <item itemvalue="Python.11. [IGA] Creating Basic Custom Functions P 2" />
       <item itemvalue="Python.11.1 Creating Basics Custom function" />
       <item itemvalue="Python.13. [IGA] ans4.4 Creating Basic Custom Functions Part 2" />
@@ -213,11 +210,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2" />
+        <item itemvalue="Python.14. [IGA] Creating Advanced Functions" />
         <item itemvalue="Python.13. [IGA] ans4.4 Creating Basic Custom Functions Part 2" />
+        <item itemvalue="Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2" />
         <item itemvalue="Python.11.1 Creating Basics Custom function" />
         <item itemvalue="Python.11. [IGA] Creating Basic Custom Functions P 2" />
-        <item itemvalue="Python.10. [BIA] Ans 4.3 Creating Custom Functions P1" />
       </list>
     </recent_temporary>
   </component>
