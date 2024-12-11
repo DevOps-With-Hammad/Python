@@ -54,7 +54,7 @@ ins(company_name ,product_model0, product_number0)
 ##############################
 ########
 # lets do some code here
-
+"""
 brand_catg = {"Samsung " : ["Note Series ", "S series ", "A Series "]}
 brand_modl = {"A series ": ["A73", "A73s " , "A52", "A52s"]}
 brand_numb = {"S sub series ": ["50 Series ", "30 series ", "70 series ", "20series "]}
@@ -65,3 +65,50 @@ def phoned(cata , moda, numba):
     print(f"your device cat  is:  {cat1} \n Your device model is : {mod1}\n Your device number is : {numba1} ")
 
 phoned(cata= brand_numb, moda=brand_modl, numba=brand_numb)
+"""
+"""
+brand_catg = {"Samsung " : ["Note Series ", "S series ", "A Series "]}
+brand_modl = {"A series ": ["A73", "A73s " , "A52", "A52s"]}
+brand_numb = {"S sub series ": ["50 Series ", "30 series ", "70 series ", "20series "]}
+def phoned(cata , moda, numba):
+    cata = str(input(f"which cat is your device included form : {brand_catg}"))
+    moda =str(input(f"which model is your device are from : {brand_modl}"))
+    numba = str(input(f"Which number of series is your device included form : {brand_numb}"))
+    print(f"your device cat  is:  {cata}"
+          f"\n Your device model is : {moda}"
+          f"\n Your device number is : {numba} ")
+
+phoned(cata= brand_numb, moda=brand_modl, numba=brand_numb)
+"""
+"""
+def pep(profession, dep):
+    profession01 = "IT"
+    dep01 = "DevOps"
+    print(f"This is Hammad form  {profession01}\n"
+          f"Which is currently working as: {dep01}  ")
+
+pep(profession="IT" ,dep="non")
+"""
+def membaa(name, dep ):
+    print(name, dep)
+membaa("ahsraf","DevOps" )
+membaa("ahsraf","DevOps" )
+membaa("ahsraf","DevOps" )
+membaa("ahsraf","DevOps" )
+membaa("ahsraf","DevOps" )
+
+data_of_date = [1960,1970,1990]
+data_of_Type= ["co", "po", "EO"]
+def managa(type01, date01):
+    your_date=input(f"please enter your date form : {data_of_date}")
+    if your_date == 1970 or your_date== 1960:
+        print(f"good news , you've picked the date of {your_date}")
+    else:
+        print(f"Pleases tick with  with this list {data_of_date}")
+
+    your_type = input(f"Please insert your type base on : {data_of_Type}")
+    if your_type == "co" or your_type=="po" or your_type== "Eo":
+        print(f"your data of type is {your_type}\n"
+              f" Based on your : {your_date}")
+
+managa(type01="",date01="" )
