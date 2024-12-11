@@ -9,3 +9,15 @@ def age_in_one_year(name, age):
 age_in_one_year(name, age)
 age_in_one_year("Adam", 1)
 age_in_one_year("Barraa", 25)
+
+
+### Function in action
+def your_name(names= "Abaass"):
+    print("your name is "  + names )
+
+your_name("Mada")
+your_name("ahmed")
+your_name("Shawky")
+your_name()
+
+
