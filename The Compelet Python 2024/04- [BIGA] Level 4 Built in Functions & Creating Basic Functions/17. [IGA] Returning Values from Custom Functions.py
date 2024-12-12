@@ -13,4 +13,13 @@ convert_feht_to_c(100)
 def convert_f_to_c(c):
     return (c-32)/1.8
 
-convert_f_to_c(100)
+print(convert_f_to_c(100))
+
+#
+
+def my_name(f_name, l_name):
+    f_s_name = f_name.title()
+    f_l_name = l_name.title()
+    return f"{f_s_name} {f_l_name}"
+
+print(my_name("HaMudY ", "IbrHim"))
