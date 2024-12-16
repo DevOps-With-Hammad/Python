@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +62,7 @@
     "Python.19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
     "Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor": "Run",
     "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
+    "Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions.executor": "Run",
     "Python.3. [BIA] Stringing Together Variables.executor": "Run",
     "Python.4. [BIA] Ex 3.2 Stringing Together Variables.executor": "Run",
     "Python.5. [BIA] Input Built in Python Function.executor": "Run",
@@ -89,7 +88,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.19. [IGA] Answer 4.6 Returning Values ustom Functions">
+  <component name="RunManager" selected="Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -98,28 +97,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="17. [IGA] Returning Values from Custom Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/17. [IGA] Returning Values from Custom Functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="17.1 [IGA] Returning Values from Custom Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
@@ -187,6 +164,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
@@ -209,17 +208,17 @@
     <list>
       <item itemvalue="Python.18. [IGA] Ex 4.6 Returning Values Custom Functions" />
       <item itemvalue="Python.19. [IGA] Answer 4.6 Returning Values ustom Functions" />
+      <item itemvalue="Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions" />
       <item itemvalue="Python.17.1 [IGA] Returning Values from Custom Functions" />
-      <item itemvalue="Python.17. [IGA] Returning Values from Custom Functions" />
       <item itemvalue="Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions" />
         <item itemvalue="Python.19. [IGA] Answer 4.6 Returning Values ustom Functions" />
         <item itemvalue="Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions" />
         <item itemvalue="Python.18. [IGA] Ex 4.6 Returning Values Custom Functions" />
         <item itemvalue="Python.17.1 [IGA] Returning Values from Custom Functions" />
-        <item itemvalue="Python.17. [IGA] Returning Values from Custom Functions" />
       </list>
     </recent_temporary>
   </component>
