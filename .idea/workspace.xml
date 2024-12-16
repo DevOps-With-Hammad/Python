@@ -45,17 +45,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
+    "Python.01. [BIA] Basic Built in Python Functions that Use Math.executor": "Run",
     "Python.1. [BIA] Arithmetic Rules in Python.executor": "Run",
+    "Python.10. [BIA] Ans 4.3 Creating Custom Functions P1.executor": "Run",
+    "Python.11. [IGA] Creating Basic Custom Functions P 2.executor": "Run",
+    "Python.11.1 Creating Basics Custom function.executor": "Run",
+    "Python.13. [IGA] ans4.4 Creating Basic Custom Functions Part 2.executor": "Run",
+    "Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2.executor": "Run",
+    "Python.14. [IGA] Creating Advanced Functions.executor": "Run",
+    "Python.15. [IGA] Ex 4.5 Creating Advanced Functions.executor": "Run",
+    "Python.16. [IGA] Answer 4.5 Creating Advanced Functions.executor": "Run",
+    "Python.17. [IGA] Returning Values from Custom Functions.executor": "Run",
+    "Python.17.1 [IGA] Returning Values from Custom Functions.executor": "Run",
+    "Python.18. [IGA] Ex 4.6 Returning Values Custom Functions.executor": "Run",
+    "Python.19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
     "Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor": "Run",
     "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
+    "Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions.executor": "Run",
     "Python.3. [BIA] Stringing Together Variables.executor": "Run",
     "Python.4. [BIA] Ex 3.2 Stringing Together Variables.executor": "Run",
+    "Python.5. [BIA] Input Built in Python Function.executor": "Run",
     "Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account.executor": "Run",
+    "Python.6. [BIA] Exercise 4.2 Input Built in Python Function.executor": "Run",
+    "Python.8. [BIA] Creating Basic Custom Functions Part 1.executor": "Run",
+    "Python.9. [BIA] Ex 4.3 Creating Custom Functions P1.executor": "Run",
     "Python.Hello World.executor": "Run",
     "Python.M1- Graded assesment.executor": "Run",
     "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Py24__03__BIA__Level__3__Python__Math__operators__strings",
+    "git-widget-placeholder": "Py24__04__BIA__Level__4__Built__in__Functions__Creating__Functions",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "G:/pythonProject/OpsLab_WIth_Hammad",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -68,7 +88,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account">
+  <component name="RunManager" selected="Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -78,27 +98,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="1. [BIA] Arithmetic Rules in Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="C:\Users\Hammad\miniconda3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings/1. [BIA] Arithmetic Rules in Python.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2. [BIA] Ex3.1 Arithmetic Rules in Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17.1 [IGA] Returning Values from Custom Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings/2. [BIA] Ex3.1 Arithmetic Rules in Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/17.1 [IGA] Returning Values from Custom Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. [BIA] Stringing Together Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18. [IGA] Ex 4.6 Returning Values Custom Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings/3. [BIA] Stringing Together Variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/18. [IGA] Ex 4.6 Returning Values Custom Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. [BIA] Ex 3.2 Stringing Together Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19. [IGA] Answer 4.6 Returning Values ustom Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings/4. [BIA] Ex 3.2 Stringing Together Variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/19. [IGA] Answer 4.6 Returning Values ustom Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,33 +173,52 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/3- [BIA] Level 3 Python Math and Strings/5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/19. [IGA] Answer 4.6 Returning Values ustom Functions.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2. [BIA] Ex3.1 Arithmetic Rules in Python" />
-      <item itemvalue="Python.3. [BIA] Stringing Together Variables" />
-      <item itemvalue="Python.4. [BIA] Ex 3.2 Stringing Together Variables" />
-      <item itemvalue="Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account" />
-      <item itemvalue="Python.1. [BIA] Arithmetic Rules in Python" />
+      <item itemvalue="Python.18. [IGA] Ex 4.6 Returning Values Custom Functions" />
+      <item itemvalue="Python.19. [IGA] Answer 4.6 Returning Values ustom Functions" />
+      <item itemvalue="Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions" />
+      <item itemvalue="Python.17.1 [IGA] Returning Values from Custom Functions" />
+      <item itemvalue="Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account" />
-        <item itemvalue="Python.4. [BIA] Ex 3.2 Stringing Together Variables" />
-        <item itemvalue="Python.3. [BIA] Stringing Together Variables" />
-        <item itemvalue="Python.2. [BIA] Ex3.1 Arithmetic Rules in Python" />
-        <item itemvalue="Python.1. [BIA] Arithmetic Rules in Python" />
+        <item itemvalue="Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions" />
+        <item itemvalue="Python.19. [IGA] Answer 4.6 Returning Values ustom Functions" />
+        <item itemvalue="Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions" />
+        <item itemvalue="Python.18. [IGA] Ex 4.6 Returning Values Custom Functions" />
+        <item itemvalue="Python.17.1 [IGA] Returning Values from Custom Functions" />
       </list>
     </recent_temporary>
   </component>
