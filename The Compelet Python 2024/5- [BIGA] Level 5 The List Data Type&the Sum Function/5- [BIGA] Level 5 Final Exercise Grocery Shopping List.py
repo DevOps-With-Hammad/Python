@@ -23,7 +23,9 @@ def show_list(shopping_list):
     for element in shopping_list:
         print(f"{element}")
 
+
 show_list(shopping_list)
+print(len((shopping_list)))
 
 
 
