@@ -7,9 +7,23 @@
 -Step 03 :remove bread form the list
 -step 04 :create the show list function
 """
-shopping_list = ["Banana ", "Suger", " rice ", "bread ", " soda "]
-print(f" Here is my shopping list: {shopping_list}")
+shopping_list = ["Banana ", "Suger", "Rice", "Bread", "Soda "]
+def show_list(shopping_list):
+    print("\n \nThe original shopping list:-")
+    for element in shopping_list:
+        print(f"{element}")
+
+show_list(shopping_list)
+
 shopping_list.append("apple")
-print(shopping_list)
 shopping_list.remove(shopping_list[3])
-print(f"shopping list after removing bread and adding apple:  {shopping_list} ")
+
+def show_list(shopping_list):
+    print("\nShopping list after adding the apple and removing the bread: ")
+    for element in shopping_list:
+        print(f"{element}")
+
+show_list(shopping_list)
+
+
+

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function/5- [BIGA] Level 5 Final Exercise Grocery Shopping List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function/4. [BIGA] Answer 5.1 The List Data Type Work.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function/4- [BIGA] Answer 5.1 The List Data Type Work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function/5- [BIGA] Level 5 Final Exercise Grocery Shopping List.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function/5- [BIGA] Level 5 Final Exercise Grocery Shopping List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +70,7 @@
     "Python.3- [BIGA] Exercise 5.1 The List Data Type Work.executor": "Run",
     "Python.3. [BIA] Stringing Together Variables.executor": "Run",
     "Python.4. [BIA] Ex 3.2 Stringing Together Variables.executor": "Run",
+    "Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List.executor": "Run",
     "Python.5. [BIA] Input Built in Python Function.executor": "Run",
     "Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account.executor": "Run",
     "Python.6. [BIA] Exercise 4.2 Input Built in Python Function.executor": "Run",
@@ -93,7 +94,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3- [BIGA] Exercise 5.1 The List Data Type Work">
+  <component name="RunManager" selected="Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -191,39 +192,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="5- [BIGA] Level 5 Final Exercise Grocery Shopping List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/19. [IGA] Answer 4.6 Returning Values ustom Functions.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function/5- [BIGA] Level 5 Final Exercise Grocery Shopping List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.2. [BIGA] How Does the List Data Type Work" />
       <item itemvalue="Python.3- [BIGA] Exercise 5.1 The List Data Type Work" />
+      <item itemvalue="Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List" />
       <item itemvalue="Python.19. [IGA] Answer 4.6 Returning Values ustom Functions" />
       <item itemvalue="Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions" />
-      <item itemvalue="Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List" />
         <item itemvalue="Python.3- [BIGA] Exercise 5.1 The List Data Type Work" />
         <item itemvalue="Python.2. [BIGA] How Does the List Data Type Work" />
         <item itemvalue="Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions" />
         <item itemvalue="Python.19. [IGA] Answer 4.6 Returning Values ustom Functions" />
-        <item itemvalue="Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions" />
       </list>
     </recent_temporary>
   </component>
