@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/6- [BIGA] Level 6 Logic and Loops/11- [BIGA] Using the MATCH and CASE Logic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function/5- [BIGA] Level 5 Final Exercise Grocery Shopping List.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function/5- [BIGA] Level 5 Final Exercise Grocery Shopping List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
     "Python.M1- Graded assesment.executor": "Run",
     "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Py24__05__BIGA__The__List__Data__Type__the__Sum__Function",
+    "git-widget-placeholder": "Py24__09__BIGA__Object__Oriented__Programming__OOP__Classes",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "G:/pythonProject/OpsLab_WIth_Hammad",
     "settings.editor.selected.configurable": "preferences.pluginManager"
