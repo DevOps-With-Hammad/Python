@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/6- [BIGA] Level 6 Logic and Loops/11- [BIGA] Using the MATCH and CASE Logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/2- [BIGA] Understanding Classes and Instances.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Python.17.1 [IGA] Returning Values from Custom Functions.executor": "Run",
     "Python.18. [IGA] Ex 4.6 Returning Values Custom Functions.executor": "Run",
     "Python.19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
+    "Python.2- [BIGA] Understanding Classes and Instances.executor": "Run",
     "Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor": "Run",
     "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
     "Python.2. [BIGA] How Does the List Data Type Work.executor": "Run",
@@ -94,7 +95,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List">
+  <component name="RunManager" selected="Python.2- [BIGA] Understanding Classes and Instances">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -104,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="19. [IGA] Answer 4.6 Returning Values ustom Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2- [BIGA] Understanding Classes and Instances" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/04- [BIGA] Level 4 Built in Functions &amp; Creating Basic Functions/19. [IGA] Answer 4.6 Returning Values ustom Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/2- [BIGA] Understanding Classes and Instances.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,19 +216,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.2- [BIGA] Understanding Classes and Instances" />
       <item itemvalue="Python.2. [BIGA] How Does the List Data Type Work" />
       <item itemvalue="Python.3- [BIGA] Exercise 5.1 The List Data Type Work" />
       <item itemvalue="Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List" />
-      <item itemvalue="Python.19. [IGA] Answer 4.6 Returning Values ustom Functions" />
       <item itemvalue="Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2- [BIGA] Understanding Classes and Instances" />
         <item itemvalue="Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List" />
         <item itemvalue="Python.3- [BIGA] Exercise 5.1 The List Data Type Work" />
         <item itemvalue="Python.2. [BIGA] How Does the List Data Type Work" />
         <item itemvalue="Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions" />
-        <item itemvalue="Python.19. [IGA] Answer 4.6 Returning Values ustom Functions" />
       </list>
     </recent_temporary>
   </component>
