@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/3- [BIGA] Exercise 9.1 Creating Your First Class and Instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/5- [BIGA] Defining Methods in a Class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,9 @@
     "Python.3- [BIGA] Exercise 5.1 The List Data Type Work.executor": "Run",
     "Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance.executor": "Run",
     "Python.3. [BIA] Stringing Together Variables.executor": "Run",
+    "Python.4- [BIGA] Answer 9.1 Creating Your First Class and Instance.executor": "Run",
     "Python.4. [BIA] Ex 3.2 Stringing Together Variables.executor": "Run",
+    "Python.5- [BIGA] Defining Methods in a Class.executor": "Run",
     "Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List.executor": "Run",
     "Python.5. [BIA] Input Built in Python Function.executor": "Run",
     "Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account.executor": "Run",
@@ -96,7 +98,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance">
+  <component name="RunManager" selected="Python.5- [BIGA] Defining Methods in a Class">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -128,50 +130,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. [BIGA] How Does the List Data Type Work" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function/2. [BIGA] How Does the List Data Type Work.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3- [BIGA] Exercise 5.1 The List Data Type Work" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/5- [BIGA] Level 5 The List Data Type&amp;the Sum Function/3- [BIGA] Exercise 5.1 The List Data Type Work.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="3- [BIGA] Exercise 9.1 Creating Your First Class and Instance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
@@ -186,6 +144,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/3- [BIGA] Exercise 9.1 Creating Your First Class and Instance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4- [BIGA] Answer 9.1 Creating Your First Class and Instance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/4- [BIGA] Answer 9.1 Creating Your First Class and Instance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5- [BIGA] Defining Methods in a Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/5- [BIGA] Defining Methods in a Class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,17 +221,17 @@
     <list>
       <item itemvalue="Python.2- [BIGA] Understanding Classes and Instances" />
       <item itemvalue="Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance" />
-      <item itemvalue="Python.2. [BIGA] How Does the List Data Type Work" />
-      <item itemvalue="Python.3- [BIGA] Exercise 5.1 The List Data Type Work" />
+      <item itemvalue="Python.4- [BIGA] Answer 9.1 Creating Your First Class and Instance" />
+      <item itemvalue="Python.5- [BIGA] Defining Methods in a Class" />
       <item itemvalue="Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5- [BIGA] Defining Methods in a Class" />
+        <item itemvalue="Python.4- [BIGA] Answer 9.1 Creating Your First Class and Instance" />
         <item itemvalue="Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance" />
         <item itemvalue="Python.2- [BIGA] Understanding Classes and Instances" />
         <item itemvalue="Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List" />
-        <item itemvalue="Python.3- [BIGA] Exercise 5.1 The List Data Type Work" />
-        <item itemvalue="Python.2. [BIGA] How Does the List Data Type Work" />
       </list>
     </recent_temporary>
   </component>
