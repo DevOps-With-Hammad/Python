@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/6-[IGA] Understanding Self in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/7- [IGA] Class Attributes Versus Instance Attributes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +79,7 @@
     "Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account.executor": "Run",
     "Python.6-[IGA] Understanding Self in Python.executor": "Run",
     "Python.6. [BIA] Exercise 4.2 Input Built in Python Function.executor": "Run",
+    "Python.7- [IGA] Class Attributes Versus Instance Attributes.executor": "Run",
     "Python.8. [BIA] Creating Basic Custom Functions Part 1.executor": "Run",
     "Python.9. [BIA] Ex 4.3 Creating Custom Functions P1.executor": "Run",
     "Python.Hello World.executor": "Run",
@@ -99,7 +100,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6-[IGA] Understanding Self in Python">
+  <component name="RunManager" selected="Python.7- [IGA] Class Attributes Versus Instance Attributes">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -108,28 +109,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="2- [BIGA] Understanding Classes and Instances" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/2- [BIGA] Understanding Classes and Instances.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="3- [BIGA] Exercise 9.1 Creating Your First Class and Instance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
@@ -219,20 +198,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="7- [IGA] Class Attributes Versus Instance Attributes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/7- [IGA] Class Attributes Versus Instance Attributes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.2- [BIGA] Understanding Classes and Instances" />
       <item itemvalue="Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance" />
       <item itemvalue="Python.4- [BIGA] Answer 9.1 Creating Your First Class and Instance" />
       <item itemvalue="Python.5- [BIGA] Defining Methods in a Class" />
       <item itemvalue="Python.6-[IGA] Understanding Self in Python" />
+      <item itemvalue="Python.7- [IGA] Class Attributes Versus Instance Attributes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7- [IGA] Class Attributes Versus Instance Attributes" />
         <item itemvalue="Python.6-[IGA] Understanding Self in Python" />
         <item itemvalue="Python.5- [BIGA] Defining Methods in a Class" />
         <item itemvalue="Python.4- [BIGA] Answer 9.1 Creating Your First Class and Instance" />
         <item itemvalue="Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance" />
-        <item itemvalue="Python.2- [BIGA] Understanding Classes and Instances" />
       </list>
     </recent_temporary>
   </component>
