@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/11- [IGA] Encapsulation Hiding Information.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/12- [IGA] Exercise 9.3 Implementing Encapsulation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +104,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11- [IGA] Encapsulation Hiding Information">
+  <component name="RunManager" selected="Python.12- [IGA] Exercise 9.3 Implementing Encapsulation">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -158,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7- [IGA] Class Attributes Versus Instance Attributes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12- [IGA] Exercise 9.3 Implementing Encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/7- [IGA] Class Attributes Versus Instance Attributes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/12- [IGA] Exercise 9.3 Implementing Encapsulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,17 +227,17 @@
     <list>
       <item itemvalue="Python.10- [IGA] Inheritance Extending Functionality" />
       <item itemvalue="Python.11- [IGA] Encapsulation Hiding Information" />
-      <item itemvalue="Python.7- [IGA] Class Attributes Versus Instance Attributes" />
+      <item itemvalue="Python.12- [IGA] Exercise 9.3 Implementing Encapsulation" />
       <item itemvalue="Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes" />
       <item itemvalue="Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12- [IGA] Exercise 9.3 Implementing Encapsulation" />
         <item itemvalue="Python.11- [IGA] Encapsulation Hiding Information" />
         <item itemvalue="Python.10- [IGA] Inheritance Extending Functionality" />
         <item itemvalue="Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes" />
         <item itemvalue="Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes" />
-        <item itemvalue="Python.7- [IGA] Class Attributes Versus Instance Attributes" />
       </list>
     </recent_temporary>
   </component>
