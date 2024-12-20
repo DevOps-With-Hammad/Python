@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/10- [IGA] Inheritance Extending Functionality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/11- [IGA] Encapsulation Hiding Information.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,9 @@
     "Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
     "Python.01. [BIA] Basic Built in Python Functions that Use Math.executor": "Run",
     "Python.1. [BIA] Arithmetic Rules in Python.executor": "Run",
+    "Python.10- [IGA] Inheritance Extending Functionality.executor": "Run",
     "Python.10. [BIA] Ans 4.3 Creating Custom Functions P1.executor": "Run",
+    "Python.11- [IGA] Encapsulation Hiding Information.executor": "Run",
     "Python.11. [IGA] Creating Basic Custom Functions P 2.executor": "Run",
     "Python.11.1 Creating Basics Custom function.executor": "Run",
     "Python.13. [IGA] ans4.4 Creating Basic Custom Functions Part 2.executor": "Run",
@@ -102,7 +104,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes">
+  <component name="RunManager" selected="Python.11- [IGA] Encapsulation Hiding Information">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -112,7 +114,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="5- [BIGA] Defining Methods in a Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10- [IGA] Inheritance Extending Functionality" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/5- [BIGA] Defining Methods in a Class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/10- [IGA] Inheritance Extending Functionality.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6-[IGA] Understanding Self in Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11- [IGA] Encapsulation Hiding Information" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/6-[IGA] Understanding Self in Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/11- [IGA] Encapsulation Hiding Information.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,19 +225,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5- [BIGA] Defining Methods in a Class" />
-      <item itemvalue="Python.6-[IGA] Understanding Self in Python" />
+      <item itemvalue="Python.10- [IGA] Inheritance Extending Functionality" />
+      <item itemvalue="Python.11- [IGA] Encapsulation Hiding Information" />
       <item itemvalue="Python.7- [IGA] Class Attributes Versus Instance Attributes" />
       <item itemvalue="Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes" />
       <item itemvalue="Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11- [IGA] Encapsulation Hiding Information" />
+        <item itemvalue="Python.10- [IGA] Inheritance Extending Functionality" />
         <item itemvalue="Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes" />
         <item itemvalue="Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes" />
         <item itemvalue="Python.7- [IGA] Class Attributes Versus Instance Attributes" />
-        <item itemvalue="Python.6-[IGA] Understanding Self in Python" />
-        <item itemvalue="Python.5- [BIGA] Defining Methods in a Class" />
       </list>
     </recent_temporary>
   </component>
