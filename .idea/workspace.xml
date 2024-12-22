@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/14- [IGA] Understanding Magic Dunder Methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +57,10 @@
     "Python.11. [IGA] Creating Basic Custom Functions P 2.executor": "Run",
     "Python.11.1 Creating Basics Custom function.executor": "Run",
     "Python.12- [IGA] Exercise 9.3 Implementing Encapsulation.executor": "Run",
+    "Python.13- [IGA] Answer 9.3 Implementing Encapsulation.executor": "Run",
     "Python.13. [IGA] ans4.4 Creating Basic Custom Functions Part 2.executor": "Run",
     "Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2.executor": "Run",
+    "Python.14- [IGA] Understanding Magic Dunder Methods.executor": "Run",
     "Python.14. [IGA] Creating Advanced Functions.executor": "Run",
     "Python.15. [IGA] Ex 4.5 Creating Advanced Functions.executor": "Run",
     "Python.16. [IGA] Answer 4.5 Creating Advanced Functions.executor": "Run",
@@ -104,7 +107,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12- [IGA] Exercise 9.3 Implementing Encapsulation">
+  <component name="RunManager" selected="Python.14- [IGA] Understanding Magic Dunder Methods">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -180,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8- [IGA] Exercise 9.2 Classes, Instances and Attributes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13- [IGA] Answer 9.3 Implementing Encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,7 +196,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/8- [IGA] Exercise 9.2 Classes, Instances and Attributes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/13- [IGA] Answer 9.3 Implementing Encapsulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9-[IGA] Answer 9.2 Classes, Instances and Attributes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14- [IGA] Understanding Magic Dunder Methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +218,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/9-[IGA] Answer 9.2 Classes, Instances and Attributes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/14- [IGA] Understanding Magic Dunder Methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,16 +231,16 @@
       <item itemvalue="Python.10- [IGA] Inheritance Extending Functionality" />
       <item itemvalue="Python.11- [IGA] Encapsulation Hiding Information" />
       <item itemvalue="Python.12- [IGA] Exercise 9.3 Implementing Encapsulation" />
-      <item itemvalue="Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes" />
-      <item itemvalue="Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes" />
+      <item itemvalue="Python.13- [IGA] Answer 9.3 Implementing Encapsulation" />
+      <item itemvalue="Python.14- [IGA] Understanding Magic Dunder Methods" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14- [IGA] Understanding Magic Dunder Methods" />
+        <item itemvalue="Python.13- [IGA] Answer 9.3 Implementing Encapsulation" />
         <item itemvalue="Python.12- [IGA] Exercise 9.3 Implementing Encapsulation" />
         <item itemvalue="Python.11- [IGA] Encapsulation Hiding Information" />
         <item itemvalue="Python.10- [IGA] Inheritance Extending Functionality" />
-        <item itemvalue="Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes" />
-        <item itemvalue="Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes" />
       </list>
     </recent_temporary>
   </component>
