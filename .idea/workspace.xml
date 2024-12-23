@@ -109,7 +109,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2. Variable Names">
+  <component name="RunManager" selected="Python.3. Strings">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -118,28 +118,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer )" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
@@ -207,6 +185,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3. Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/3. Strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="first code in python " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
@@ -232,17 +232,17 @@
     <list>
       <item itemvalue="Python.1. Variables" />
       <item itemvalue="Python.2. Variable Names" />
+      <item itemvalue="Python.3. Strings" />
       <item itemvalue="Python.first code in python " />
       <item itemvalue="Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer )" />
-      <item itemvalue="Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3. Strings" />
         <item itemvalue="Python.2. Variable Names" />
         <item itemvalue="Python.1. Variables" />
         <item itemvalue="Python.first code in python " />
         <item itemvalue="Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer )" />
-        <item itemvalue="Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager" />
       </list>
     </recent_temporary>
   </component>
