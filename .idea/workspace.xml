@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer ).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/01- Getting started/1. What is Python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/10- [IGA] Level 10 Mastering NumPy (Numerical Python)/1- Numpy Numerical Python .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/10- [IGA] Level 10 Mastering NumPy (Numerical Python)/numpy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +98,7 @@
     "Python.M1- Graded assesment.executor": "Run",
     "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Py24__09__BIGA__Object__Oriented__Programming__OOP__Classes",
+    "git-widget-placeholder": "Cpy-01__getting__started",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "G:/pythonProject/OpsLab_WIth_Hammad",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -111,7 +112,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer )">
+  <component name="RunManager" selected="Python.first code in python ">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -120,28 +121,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="13- [IGA] Answer 9.3 Implementing Encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/13- [IGA] Answer 9.3 Implementing Encapsulation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="14- [IGA] Understanding Magic Dunder Methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
@@ -231,20 +210,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="first code in python " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/01- Getting started" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/01- Getting started/first code in python .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.first code in python " />
       <item itemvalue="Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer )" />
-      <item itemvalue="Python.13- [IGA] Answer 9.3 Implementing Encapsulation" />
       <item itemvalue="Python.14- [IGA] Understanding Magic Dunder Methods" />
       <item itemvalue="Python.15- [GA] Understanding Composition and Aggregation" />
       <item itemvalue="Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.first code in python " />
         <item itemvalue="Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer )" />
         <item itemvalue="Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager" />
         <item itemvalue="Python.15- [GA] Understanding Composition and Aggregation" />
         <item itemvalue="Python.14- [IGA] Understanding Magic Dunder Methods" />
-        <item itemvalue="Python.13- [IGA] Answer 9.3 Implementing Encapsulation" />
       </list>
     </recent_temporary>
   </component>
