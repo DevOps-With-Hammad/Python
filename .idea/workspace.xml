@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/01- Getting started/1. What is Python.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/10- [IGA] Level 10 Mastering NumPy (Numerical Python)/1- Numpy Numerical Python .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The Compelet Python 2024/10- [IGA] Level 10 Mastering NumPy (Numerical Python)/numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/1. Variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +50,7 @@
   "keyToString": {
     "Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
     "Python.01. [BIA] Basic Built in Python Functions that Use Math.executor": "Run",
+    "Python.1. Variables.executor": "Run",
     "Python.1. [BIA] Arithmetic Rules in Python.executor": "Run",
     "Python.10- [IGA] Inheritance Extending Functionality.executor": "Run",
     "Python.10. [BIA] Ans 4.3 Creating Custom Functions P1.executor": "Run",
@@ -98,7 +97,7 @@
     "Python.M1- Graded assesment.executor": "Run",
     "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Cpy-01__getting__started",
+    "git-widget-placeholder": "Cpy-02__Primitive__Types",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "G:/pythonProject/OpsLab_WIth_Hammad",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -112,7 +111,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.first code in python ">
+  <component name="RunManager" selected="Python.1. Variables">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -121,28 +120,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="14- [IGA] Understanding Magic Dunder Methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Compelet Python 2024/9- [BIGA] Level 9 Object Oriented Programming/14- [IGA] Understanding Magic Dunder Methods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="15- [GA] Understanding Composition and Aggregation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
@@ -210,6 +187,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1. Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/1. Variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="first code in python " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
@@ -233,19 +232,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.1. Variables" />
       <item itemvalue="Python.first code in python " />
       <item itemvalue="Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer )" />
-      <item itemvalue="Python.14- [IGA] Understanding Magic Dunder Methods" />
       <item itemvalue="Python.15- [GA] Understanding Composition and Aggregation" />
       <item itemvalue="Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1. Variables" />
         <item itemvalue="Python.first code in python " />
         <item itemvalue="Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer )" />
         <item itemvalue="Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager" />
         <item itemvalue="Python.15- [GA] Understanding Composition and Aggregation" />
-        <item itemvalue="Python.14- [IGA] Understanding Magic Dunder Methods" />
       </list>
     </recent_temporary>
   </component>
