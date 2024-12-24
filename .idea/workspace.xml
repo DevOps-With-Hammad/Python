@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/10. Quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/3- Control Flow/1. Comparison Operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/1. Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/1. Variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/10. Quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/10. Quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/2. Variable Names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/2. Variable Names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/3. Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/3. Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/4. Escape Sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/4. Escape Sequences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/5. Formatted Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/5. Formatted Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/6. String Methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/6. String Methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/7. Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/7. Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/8. Working with Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/8. Working with Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/9. Type Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/9. Type Conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +60,7 @@
   "keyToString": {
     "Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
     "Python.01. [BIA] Basic Built in Python Functions that Use Math.executor": "Run",
+    "Python.1. Comparison Operators.executor": "Run",
     "Python.1. Variables.executor": "Run",
     "Python.1. [BIA] Arithmetic Rules in Python.executor": "Run",
     "Python.10- [IGA] Inheritance Extending Functionality.executor": "Run",
@@ -106,7 +117,7 @@
     "Python.M1- Graded assesment.executor": "Run",
     "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Cpy-02__Primitive__Types",
+    "git-widget-placeholder": "Cpy-03__Control__Flow",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "G:/pythonProject/OpsLab_WIth_Hammad",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -120,7 +131,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10. Quiz">
+  <component name="RunManager" selected="Python.1. Comparison Operators">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -152,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6. String Methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1. Comparison Operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/3- Control Flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/6. String Methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/3- Control Flow/1. Comparison Operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,19 +252,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.1. Comparison Operators" />
       <item itemvalue="Python.10. Quiz" />
-      <item itemvalue="Python.6. String Methods" />
       <item itemvalue="Python.7. Numbers" />
       <item itemvalue="Python.8. Working with Numbers" />
       <item itemvalue="Python.9. Type Conversion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1. Comparison Operators" />
         <item itemvalue="Python.10. Quiz" />
         <item itemvalue="Python.9. Type Conversion" />
         <item itemvalue="Python.8. Working with Numbers" />
         <item itemvalue="Python.7. Numbers" />
-        <item itemvalue="Python.6. String Methods" />
       </list>
     </recent_temporary>
   </component>
