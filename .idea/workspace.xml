@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="" />
+    <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,65 +45,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
-    "Python.01. [BIA] Basic Built in Python Functions that Use Math.executor": "Run",
-    "Python.1. Variables.executor": "Run",
-    "Python.1. [BIA] Arithmetic Rules in Python.executor": "Run",
-    "Python.10- [IGA] Inheritance Extending Functionality.executor": "Run",
-    "Python.10. [BIA] Ans 4.3 Creating Custom Functions P1.executor": "Run",
-    "Python.11- [IGA] Encapsulation Hiding Information.executor": "Run",
-    "Python.11. [IGA] Creating Basic Custom Functions P 2.executor": "Run",
-    "Python.11.1 Creating Basics Custom function.executor": "Run",
-    "Python.12- [IGA] Exercise 9.3 Implementing Encapsulation.executor": "Run",
-    "Python.13- [IGA] Answer 9.3 Implementing Encapsulation.executor": "Run",
-    "Python.13. [IGA] ans4.4 Creating Basic Custom Functions Part 2.executor": "Run",
-    "Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2.executor": "Run",
-    "Python.14- [IGA] Understanding Magic Dunder Methods.executor": "Run",
-    "Python.14. [IGA] Creating Advanced Functions.executor": "Run",
-    "Python.15- [GA] Understanding Composition and Aggregation.executor": "Run",
-    "Python.15. [IGA] Ex 4.5 Creating Advanced Functions.executor": "Run",
-    "Python.16. [IGA] Answer 4.5 Creating Advanced Functions.executor": "Run",
-    "Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager.executor": "Run",
-    "Python.17. [IGA] Returning Values from Custom Functions.executor": "Run",
-    "Python.17.1 [IGA] Returning Values from Custom Functions.executor": "Run",
-    "Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer ).executor": "Run",
-    "Python.18. [IGA] Ex 4.6 Returning Values Custom Functions.executor": "Run",
-    "Python.19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
-    "Python.2- [BIGA] Understanding Classes and Instances.executor": "Run",
-    "Python.2. Variable Names.executor": "Run",
-    "Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor": "Run",
-    "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
-    "Python.2. [BIGA] How Does the List Data Type Work.executor": "Run",
-    "Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions.executor": "Run",
-    "Python.3- [BIGA] Exercise 5.1 The List Data Type Work.executor": "Run",
-    "Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance.executor": "Run",
-    "Python.3. Strings.executor": "Run",
-    "Python.3. [BIA] Stringing Together Variables.executor": "Run",
-    "Python.4- [BIGA] Answer 9.1 Creating Your First Class and Instance.executor": "Run",
-    "Python.4. [BIA] Ex 3.2 Stringing Together Variables.executor": "Run",
-    "Python.5- [BIGA] Defining Methods in a Class.executor": "Run",
-    "Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List.executor": "Run",
-    "Python.5. [BIA] Input Built in Python Function.executor": "Run",
-    "Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account.executor": "Run",
-    "Python.6-[IGA] Understanding Self in Python.executor": "Run",
-    "Python.6. [BIA] Exercise 4.2 Input Built in Python Function.executor": "Run",
-    "Python.7- [IGA] Class Attributes Versus Instance Attributes.executor": "Run",
-    "Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes.executor": "Run",
-    "Python.8. [BIA] Creating Basic Custom Functions Part 1.executor": "Run",
-    "Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes.executor": "Run",
-    "Python.9. [BIA] Ex 4.3 Creating Custom Functions P1.executor": "Run",
-    "Python.Hello World.executor": "Run",
-    "Python.M1- Graded assesment.executor": "Run",
-    "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Cpy-02__Primitive__Types",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "G:/pythonProject/OpsLab_WIth_Hammad",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01. [BIA] Basic Built in Python Functions that Use Math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. [BIA] Arithmetic Rules in Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10- [IGA] Inheritance Extending Functionality.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10. [BIA] Ans 4.3 Creating Custom Functions P1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11- [IGA] Encapsulation Hiding Information.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11. [IGA] Creating Basic Custom Functions P 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.1 Creating Basics Custom function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12- [IGA] Exercise 9.3 Implementing Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13- [IGA] Answer 9.3 Implementing Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13. [IGA] ans4.4 Creating Basic Custom Functions Part 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14- [IGA] Understanding Magic Dunder Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14. [IGA] Creating Advanced Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15- [GA] Understanding Composition and Aggregation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15. [IGA] Ex 4.5 Creating Advanced Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16. [IGA] Answer 4.5 Creating Advanced Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17. [IGA] Returning Values from Custom Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.1 [IGA] Returning Values from Custom Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer ).executor&quot;: &quot;Run&quot;,
+    &quot;Python.18. [IGA] Ex 4.6 Returning Values Custom Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19. [IGA] Answer 4.6 Returning Values ustom Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2- [BIGA] Understanding Classes and Instances.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Variable Names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. [BIA] How to Code Data Types &amp; Variables in Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. [BIGA] How Does the List Data Type Work.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3- [BIGA] Exercise 5.1 The List Data Type Work.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. [BIA] Stringing Together Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4- [BIGA] Answer 9.1 Creating Your First Class and Instance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. Escape Sequences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. [BIA] Ex 3.2 Stringing Together Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5- [BIGA] Defining Methods in a Class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. [BIA] Input Built in Python Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6-[IGA] Understanding Self in Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6. [BIA] Exercise 4.2 Input Built in Python Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7- [IGA] Class Attributes Versus Instance Attributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8. [BIA] Creating Basic Custom Functions Part 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9. [BIA] Ex 4.3 Creating Custom Functions P1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hello World.executor&quot;: &quot;Run&quot;,
+    &quot;Python.M1- Graded assesment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Study Guide- Module 1 Graded Quiz.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Cpy-02__Primitive__Types&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/pythonProject/OpsLab_WIth_Hammad&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Software_enginnering-Code_base" />
