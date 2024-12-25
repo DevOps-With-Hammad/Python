@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/9. For..Else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/10. Nested Loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.1. Variables.executor": "Run",
     "Python.1. [BIA] Arithmetic Rules in Python.executor": "Run",
     "Python.10- [IGA] Inheritance Extending Functionality.executor": "Run",
+    "Python.10. Nested Loops.executor": "Run",
     "Python.10. Quiz.executor": "Run",
     "Python.10. [BIA] Ans 4.3 Creating Custom Functions P1.executor": "Run",
     "Python.11- [IGA] Encapsulation Hiding Information.executor": "Run",
@@ -129,7 +130,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9. For..Else">
+  <component name="RunManager" selected="Python.10. Nested Loops">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -139,7 +140,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="5. Short-circuit Evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10. Nested Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/5. Short-circuit Evaluation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/10. Nested Loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +251,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5. Short-circuit Evaluation" />
+      <item itemvalue="Python.10. Nested Loops" />
       <item itemvalue="Python.6. Chaining Comparison Operators" />
       <item itemvalue="Python.7. Quiz" />
       <item itemvalue="Python.8. For Loops" />
@@ -258,11 +259,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10. Nested Loops" />
         <item itemvalue="Python.9. For..Else" />
         <item itemvalue="Python.8. For Loops" />
         <item itemvalue="Python.7. Quiz" />
         <item itemvalue="Python.6. Chaining Comparison Operators" />
-        <item itemvalue="Python.5. Short-circuit Evaluation" />
       </list>
     </recent_temporary>
   </component>
