@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/3- Control Flow/1. Comparison Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/1. Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/1. Variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/10. Quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/10. Quiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/2. Variable Names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/2. Variable Names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/3. Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/3. Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/4. Escape Sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/4. Escape Sequences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/5. Formatted Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/5. Formatted Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/6. String Methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/6. String Methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/7. Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/7. Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/8. Working with Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/8. Working with Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/9. Type Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/9. Type Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/2. Conditional Statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/1. Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/02- Primitive Types/1. Variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/10. Quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/02- Primitive Types/10. Quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/2. Variable Names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/02- Primitive Types/2. Variable Names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/3. Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/02- Primitive Types/3. Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/4. Escape Sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/02- Primitive Types/4. Escape Sequences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/5. Formatted Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/02- Primitive Types/5. Formatted Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/6. String Methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/02- Primitive Types/6. String Methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/7. Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/02- Primitive Types/7. Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/8. Working with Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/02- Primitive Types/8. Working with Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/2- Primitive Types/9. Type Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/02- Primitive Types/9. Type Conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/3- Control Flow/1. Comparison Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/1. Comparison Operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +85,7 @@
     "Python.18. [IGA] Ex 4.6 Returning Values Custom Functions.executor": "Run",
     "Python.19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
     "Python.2- [BIGA] Understanding Classes and Instances.executor": "Run",
+    "Python.2. Conditional Statements.executor": "Run",
     "Python.2. Variable Names.executor": "Run",
     "Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor": "Run",
     "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
@@ -131,7 +132,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1. Comparison Operators">
+  <component name="RunManager" selected="Python.2. Conditional Statements">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -185,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7. Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Conditional Statements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/2. Primitive Types/7. Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/2. Conditional Statements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,18 +254,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.1. Comparison Operators" />
+      <item itemvalue="Python.2. Conditional Statements" />
       <item itemvalue="Python.10. Quiz" />
-      <item itemvalue="Python.7. Numbers" />
       <item itemvalue="Python.8. Working with Numbers" />
       <item itemvalue="Python.9. Type Conversion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2. Conditional Statements" />
         <item itemvalue="Python.1. Comparison Operators" />
         <item itemvalue="Python.10. Quiz" />
         <item itemvalue="Python.9. Type Conversion" />
         <item itemvalue="Python.8. Working with Numbers" />
-        <item itemvalue="Python.7. Numbers" />
       </list>
     </recent_temporary>
   </component>
