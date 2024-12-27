@@ -9,3 +9,10 @@ command = ""
 while command.lower() != "quit":
     command = input(">")
     print("ECHO", command)
+#
+y = 12
+while y>0:
+    y -=1
+    print(y)
+
+# happy  coding
