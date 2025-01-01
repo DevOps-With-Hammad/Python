@@ -28,9 +28,11 @@ print(z)
 # we will reuse this code to do primary numbers finder
 
 def primary():
-    y= [w for w in range (0,101) if w % 1 == 0 and w %2 !=0 ]
-    return  y
-print(primary())
+    y = [w for w in range(2, 101) if all(w % i != 0 for i in range(2, int(w ** 0.5) + 1))]
+    return y
+
+print(primary(), "nice ")
+print(" This is your code ")
 
 # another list comprehensions
 
@@ -52,4 +54,12 @@ def even ():
 print(even())
 
 
+# another example for odd_number .
+def odd_numbers(n):
+	return [x for x in range(0,n+1 ) if x %2 !=0 ]
 
+print(odd_numbers(5))  # Should print [1, 3, 5]
+print(odd_numbers(10)) # Should print [1, 3, 5, 7, 9]
+print(odd_numbers(11)) # Should print [1, 3, 5, 7, 9, 11]
+print(odd_numbers(1))  # Should print [1]
+print(odd_numbers(-1)) # Should print []

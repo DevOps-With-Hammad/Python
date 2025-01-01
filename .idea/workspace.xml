@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00.List comprehensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/01. Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/simple quize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. Practice Quiz Lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00.List comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00.List comprehensions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
+    "Python.00. Practice Quiz Lists.executor": "Run",
     "Python.00.List comprehensions.executor": "Run",
     "Python.01. Lists.executor": "Run",
     "Python.01. [BIA] Basic Built in Python Functions that Use Math.executor": "Run",
@@ -137,7 +137,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.00.List comprehensions">
+  <component name="RunManager" selected="Python.00. Practice Quiz Lists">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -146,6 +146,28 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="00. Practice Quiz Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. Practice Quiz Lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="00.List comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
@@ -183,28 +205,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/01. Lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11. Iterables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/11. Iterables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,19 +258,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.00. Practice Quiz Lists" />
       <item itemvalue="Python.00.List comprehensions" />
       <item itemvalue="Python.01. Lists" />
       <item itemvalue="Python.simple quize" />
-      <item itemvalue="Python.11. Iterables" />
       <item itemvalue="Python.12. While Loops" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.00. Practice Quiz Lists" />
         <item itemvalue="Python.00.List comprehensions" />
         <item itemvalue="Python.simple quize" />
         <item itemvalue="Python.01. Lists" />
         <item itemvalue="Python.12. While Loops" />
-        <item itemvalue="Python.11. Iterables" />
       </list>
     </recent_temporary>
   </component>
