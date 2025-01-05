@@ -25,7 +25,7 @@ print([x for x in range(1,101) if x % 10 == 0])
 
 
 filenames = ["program.c", "stdio.hpp", "sample.hpp", "a.out", "math.hpp", "hpp.out"]
-[x for x  in filenames if "." in x newfilenames =x.split(".")[0][1]  ]
+[x for x  in filenames if "." in x new filenames =x.split(".")[0][1]  ]
 
 print(newfilenames)
 # Should be ["program.c", "stdio.h", "sample.h", "a.out", "math.h", "hpp.out"]

@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. Iterating over the contents of a dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00 .Quiz-- Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. Ditonaries versus Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. Use while loops and if else statements for dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/2. Accessing Items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. Practice Quiz Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. Practice Quiz Lists.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +53,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
+    "Python.00 .Quiz-- Dictionaries.executor": "Run",
+    "Python.00. Ditonaries versus Lists.executor": "Run",
     "Python.00. Iterating over the contents of a dictionary.executor": "Run",
     "Python.00. Practice Quiz Lists.executor": "Run",
+    "Python.00. Use while loops and if else statements for dictionaries.executor": "Run",
     "Python.00. What is a dictionary.executor": "Run",
     "Python.00.List comprehensions.executor": "Run",
     "Python.00The tuple() operator.executor": "Run",
@@ -84,6 +91,7 @@
     "Python.18. [IGA] Ex 4.6 Returning Values Custom Functions.executor": "Run",
     "Python.19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
     "Python.2- [BIGA] Understanding Classes and Instances.executor": "Run",
+    "Python.2. Accessing Items.executor": "Run",
     "Python.2. Conditional Statements.executor": "Run",
     "Python.2. Variable Names.executor": "Run",
     "Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor": "Run",
@@ -139,7 +147,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.00. Iterating over the contents of a dictionary">
+  <component name="RunManager" selected="Python.2. Accessing Items">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -149,7 +157,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="00The tuple() operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="00 .Quiz-- Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +170,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00The tuple() operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00 .Quiz-- Dictionaries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="00. Ditonaries versus Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. Ditonaries versus Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="00. Practice Quiz Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="00. Use while loops and if else statements for dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,7 +236,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. Practice Quiz Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. Use while loops and if else statements for dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="00. What is a dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Accessing Items" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,29 +258,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00. What is a dictionary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="00.List comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/00.List comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/2. Accessing Items.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,19 +268,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.2. Accessing Items" />
+      <item itemvalue="Python.00 .Quiz-- Dictionaries" />
+      <item itemvalue="Python.00. Ditonaries versus Lists" />
       <item itemvalue="Python.00. Iterating over the contents of a dictionary" />
-      <item itemvalue="Python.00. Practice Quiz Lists" />
-      <item itemvalue="Python.00. What is a dictionary" />
-      <item itemvalue="Python.00.List comprehensions" />
-      <item itemvalue="Python.00The tuple() operator" />
+      <item itemvalue="Python.00. Use while loops and if else statements for dictionaries" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2. Accessing Items" />
+        <item itemvalue="Python.00 .Quiz-- Dictionaries" />
+        <item itemvalue="Python.00. Use while loops and if else statements for dictionaries" />
+        <item itemvalue="Python.00. Ditonaries versus Lists" />
         <item itemvalue="Python.00. Iterating over the contents of a dictionary" />
-        <item itemvalue="Python.00. What is a dictionary" />
-        <item itemvalue="Python.00The tuple() operator" />
-        <item itemvalue="Python.00. Practice Quiz Lists" />
-        <item itemvalue="Python.00.List comprehensions" />
       </list>
     </recent_temporary>
   </component>
