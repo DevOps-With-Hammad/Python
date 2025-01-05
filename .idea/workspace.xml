@@ -43,100 +43,101 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.00 .Quiz-- Dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.00. Ditonaries versus Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.00. Iterating over the contents of a dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.00. Practice Quiz Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.00. Use while loops and if else statements for dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.00. What is a dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.00.List comprehensions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.00The tuple() operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01. Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01. [BIA] Basic Built in Python Functions that Use Math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03. List Unpacking.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05. Add or Remove Items from List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06. Finding Items.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07. Sorting Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Comparison Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. [BIA] Arithmetic Rules in Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10- [IGA] Inheritance Extending Functionality.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10. Nested Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10. Quiz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10. [BIA] Ans 4.3 Creating Custom Functions P1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11- [IGA] Encapsulation Hiding Information.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11. Iterables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11. [IGA] Creating Basic Custom Functions P 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.1 Creating Basics Custom function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12- [IGA] Exercise 9.3 Implementing Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12. While Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13- [IGA] Answer 9.3 Implementing Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13. [IGA] ans4.4 Creating Basic Custom Functions Part 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14- [IGA] Understanding Magic Dunder Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14. [IGA] Creating Advanced Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15- [GA] Understanding Composition and Aggregation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15. [IGA] Ex 4.5 Creating Advanced Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16. [IGA] Answer 4.5 Creating Advanced Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17. [IGA] Returning Values from Custom Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17.1 [IGA] Returning Values from Custom Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer ).executor&quot;: &quot;Run&quot;,
-    &quot;Python.18. [IGA] Ex 4.6 Returning Values Custom Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.19. [IGA] Answer 4.6 Returning Values ustom Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2- [BIGA] Understanding Classes and Instances.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Accessing Items.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Conditional Statements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Variable Names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. [BIA] How to Code Data Types &amp; Variables in Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. [BIGA] How Does the List Data Type Work.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3- [BIGA] Exercise 5.1 The List Data Type Work.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Ternary Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. [BIA] Stringing Together Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4- [BIGA] Answer 9.1 Creating Your First Class and Instance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Escape Sequences.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Logical Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Looping over list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. [BIA] Ex 3.2 Stringing Together Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5- [BIGA] Defining Methods in a Class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Formatted Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Short-circuit Evaluation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. [BIA] Input Built in Python Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-[IGA] Understanding Self in Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. Chaining Comparison Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. String Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. [BIA] Exercise 4.2 Input Built in Python Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7- [IGA] Class Attributes Versus Instance Attributes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. Quiz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8. For Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8. Working with Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8. [BIA] Creating Basic Custom Functions Part 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9. For..Else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9. Type Conversion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9. [BIA] Ex 4.3 Creating Custom Functions P1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hello World.executor&quot;: &quot;Run&quot;,
-    &quot;Python.M1- Graded assesment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Study Guide- Module 1 Graded Quiz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simple quize.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Cpy-05__Data__Structuers&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/pythonProject/OpsLab_WIth_Hammad&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
+    "Python.00 .Quiz-- Dictionaries.executor": "Run",
+    "Python.00. Ditonaries versus Lists.executor": "Run",
+    "Python.00. Iterating over the contents of a dictionary.executor": "Run",
+    "Python.00. Practice Quiz Lists.executor": "Run",
+    "Python.00. Use while loops and if else statements for dictionaries.executor": "Run",
+    "Python.00. What is a dictionary.executor": "Run",
+    "Python.00.List comprehensions.executor": "Run",
+    "Python.00The tuple() operator.executor": "Run",
+    "Python.01. Lists.executor": "Run",
+    "Python.01. [BIA] Basic Built in Python Functions that Use Math.executor": "Run",
+    "Python.03. List Unpacking.executor": "Run",
+    "Python.05. Add or Remove Items from List.executor": "Run",
+    "Python.06.  Finding Items.executor": "Run",
+    "Python.06. Finding Items.executor": "Run",
+    "Python.07. Sorting Lists.executor": "Run",
+    "Python.1. Comparison Operators.executor": "Run",
+    "Python.1. Variables.executor": "Run",
+    "Python.1. [BIA] Arithmetic Rules in Python.executor": "Run",
+    "Python.10- [IGA] Inheritance Extending Functionality.executor": "Run",
+    "Python.10. Nested Loops.executor": "Run",
+    "Python.10. Quiz.executor": "Run",
+    "Python.10. [BIA] Ans 4.3 Creating Custom Functions P1.executor": "Run",
+    "Python.11- [IGA] Encapsulation Hiding Information.executor": "Run",
+    "Python.11. Iterables.executor": "Run",
+    "Python.11. [IGA] Creating Basic Custom Functions P 2.executor": "Run",
+    "Python.11.1 Creating Basics Custom function.executor": "Run",
+    "Python.12- [IGA] Exercise 9.3 Implementing Encapsulation.executor": "Run",
+    "Python.12. While Loops.executor": "Run",
+    "Python.13- [IGA] Answer 9.3 Implementing Encapsulation.executor": "Run",
+    "Python.13. [IGA] ans4.4 Creating Basic Custom Functions Part 2.executor": "Run",
+    "Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2.executor": "Run",
+    "Python.14- [IGA] Understanding Magic Dunder Methods.executor": "Run",
+    "Python.14. [IGA] Creating Advanced Functions.executor": "Run",
+    "Python.15- [GA] Understanding Composition and Aggregation.executor": "Run",
+    "Python.15. [IGA] Ex 4.5 Creating Advanced Functions.executor": "Run",
+    "Python.16. [IGA] Answer 4.5 Creating Advanced Functions.executor": "Run",
+    "Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager.executor": "Run",
+    "Python.17. [IGA] Returning Values from Custom Functions.executor": "Run",
+    "Python.17.1 [IGA] Returning Values from Custom Functions.executor": "Run",
+    "Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer ).executor": "Run",
+    "Python.18. [IGA] Ex 4.6 Returning Values Custom Functions.executor": "Run",
+    "Python.19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
+    "Python.2- [BIGA] Understanding Classes and Instances.executor": "Run",
+    "Python.2. Accessing Items.executor": "Run",
+    "Python.2. Conditional Statements.executor": "Run",
+    "Python.2. Variable Names.executor": "Run",
+    "Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor": "Run",
+    "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
+    "Python.2. [BIGA] How Does the List Data Type Work.executor": "Run",
+    "Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions.executor": "Run",
+    "Python.3- [BIGA] Exercise 5.1 The List Data Type Work.executor": "Run",
+    "Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance.executor": "Run",
+    "Python.3. Strings.executor": "Run",
+    "Python.3. Ternary Operator.executor": "Run",
+    "Python.3. [BIA] Stringing Together Variables.executor": "Run",
+    "Python.4- [BIGA] Answer 9.1 Creating Your First Class and Instance.executor": "Run",
+    "Python.4. Escape Sequences.executor": "Run",
+    "Python.4. Logical Operators.executor": "Run",
+    "Python.4. Looping over list.executor": "Run",
+    "Python.4. [BIA] Ex 3.2 Stringing Together Variables.executor": "Run",
+    "Python.5- [BIGA] Defining Methods in a Class.executor": "Run",
+    "Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List.executor": "Run",
+    "Python.5. Formatted Strings.executor": "Run",
+    "Python.5. Short-circuit Evaluation.executor": "Run",
+    "Python.5. [BIA] Input Built in Python Function.executor": "Run",
+    "Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account.executor": "Run",
+    "Python.6-[IGA] Understanding Self in Python.executor": "Run",
+    "Python.6. Chaining Comparison Operators.executor": "Run",
+    "Python.6. String Methods.executor": "Run",
+    "Python.6. [BIA] Exercise 4.2 Input Built in Python Function.executor": "Run",
+    "Python.7- [IGA] Class Attributes Versus Instance Attributes.executor": "Run",
+    "Python.7. Numbers.executor": "Run",
+    "Python.7. Quiz.executor": "Run",
+    "Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes.executor": "Run",
+    "Python.8. For Loops.executor": "Run",
+    "Python.8. Working with Numbers.executor": "Run",
+    "Python.8. [BIA] Creating Basic Custom Functions Part 1.executor": "Run",
+    "Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes.executor": "Run",
+    "Python.9. For..Else.executor": "Run",
+    "Python.9. Type Conversion.executor": "Run",
+    "Python.9. [BIA] Ex 4.3 Creating Custom Functions P1.executor": "Run",
+    "Python.Hello World.executor": "Run",
+    "Python.M1- Graded assesment.executor": "Run",
+    "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
+    "Python.simple quize.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Cpy-05__Data__Structuers",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "G:/pythonProject/OpsLab_WIth_Hammad",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Software_enginnering-Code_base" />
@@ -145,7 +146,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07. Sorting Lists">
+  <component name="RunManager" selected="Python.08. Lamda Function">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -154,28 +155,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="03. List Unpacking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/03. List Unpacking.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="05. Add or Remove Items from List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
@@ -191,6 +170,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/05. Add or Remove Items from List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06.  Finding Items" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/06.  Finding Items.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. Looping over list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08. Lamda Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,7 +257,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/4. Looping over list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/08. Lamda Function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,19 +267,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.03. List Unpacking" />
+      <item itemvalue="Python.06.  Finding Items" />
+      <item itemvalue="Python.08. Lamda Function" />
       <item itemvalue="Python.05. Add or Remove Items from List" />
       <item itemvalue="Python.06. Finding Items" />
       <item itemvalue="Python.07. Sorting Lists" />
-      <item itemvalue="Python.4. Looping over list" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.08. Lamda Function" />
+        <item itemvalue="Python.06.  Finding Items" />
         <item itemvalue="Python.07. Sorting Lists" />
         <item itemvalue="Python.06. Finding Items" />
         <item itemvalue="Python.05. Add or Remove Items from List" />
-        <item itemvalue="Python.4. Looping over list" />
-        <item itemvalue="Python.03. List Unpacking" />
       </list>
     </recent_temporary>
   </component>
