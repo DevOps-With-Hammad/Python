@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/19. Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/20. Dictionary Comprehensions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +110,7 @@
     "Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor": "Run",
     "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
     "Python.2. [BIGA] How Does the List Data Type Work.executor": "Run",
+    "Python.20. Dictionary Comprehensions.executor": "Run",
     "Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions.executor": "Run",
     "Python.3- [BIGA] Exercise 5.1 The List Data Type Work.executor": "Run",
     "Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance.executor": "Run",
@@ -162,7 +163,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.19. Dictionaries">
+  <component name="RunManager" selected="Python.20. Dictionary Comprehensions">
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -171,28 +172,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="15. Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software_enginnering-Code_base" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/15. Tuples.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="16. Swapping Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
@@ -282,20 +261,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="20. Dictionary Comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_enginnering-Code_base" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/20. Dictionary Comprehensions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.15. Tuples" />
       <item itemvalue="Python.16. Swapping Variables" />
       <item itemvalue="Python.17. Arrays" />
       <item itemvalue="Python.18. Sets" />
       <item itemvalue="Python.19. Dictionaries" />
+      <item itemvalue="Python.20. Dictionary Comprehensions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20. Dictionary Comprehensions" />
         <item itemvalue="Python.19. Dictionaries" />
         <item itemvalue="Python.18. Sets" />
         <item itemvalue="Python.17. Arrays" />
         <item itemvalue="Python.16. Swapping Variables" />
-        <item itemvalue="Python.15. Tuples" />
       </list>
     </recent_temporary>
   </component>
