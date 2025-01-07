@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/14. queues.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/13. Stacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complete Python Mastery[MH]/05- Data Structures/13. Stacks.py" afterDir="false" />
-    </list>
+    <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +85,7 @@
     "Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2.executor": "Run",
     "Python.14- [IGA] Understanding Magic Dunder Methods.executor": "Run",
     "Python.14. [IGA] Creating Advanced Functions.executor": "Run",
+    "Python.14. queues.executor": "Run",
     "Python.15- [GA] Understanding Composition and Aggregation.executor": "Run",
     "Python.15. [IGA] Ex 4.5 Creating Advanced Functions.executor": "Run",
     "Python.16. [IGA] Answer 4.5 Creating Advanced Functions.executor": "Run",
